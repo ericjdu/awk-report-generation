@@ -1,0 +1,1413 @@
+Application name	Course name	EMPLOYEE Number	Last Name	First Name
+Red Shelf	Summer 2017 GEOG 110-51 11484		Carroll	John
+VitalSource	Adam Roberts Sandbox	888954450	Roberts	Adam
+VitalSource	Fall 2017 ACCT 308-05 12237	804485860	Simonton	Dominic
+VitalSource	Fall 2017 ACCT 308-80 12030	894337641	Nicely	William
+VitalSource	Fall 2017 ACCT 308-85 20302	804485860	Simonton	Dominic
+VitalSource	Fall 2017 ACCT 401-01 11906	893768481	Keshk	Walied
+VitalSource	Fall 2017 ACCT 401-04 20303	893768481	Keshk	Walied
+VitalSource	Fall 2017 ACCT 402-01 12077	888943925	Lynch	Edward
+VitalSource	Fall 2017 ACCT 402-02 12093	888943925	Lynch	Edward
+VitalSource	Fall 2017 ACCT 402-03 12103	892846122	Alali	Fatima
+VitalSource	Fall 2017 ACCT 505-01 12369	890284185	Kim	Margaret
+VitalSource	Fall 2017 BIOL 152-01 19158	893785337	Abraham	Joel
+VitalSource	Fall 2017 BIOL 202-01 17593	898528518	Overstreet	Cathie
+VitalSource	Fall 2017 BUAD 301-22 12114 (Friday)	889604674	Nguyen	Amy
+VitalSource	Fall 2017 BUAD 301-36 12223	801374521	Gordon	Howard
+VitalSource	Fall 2017 BUAD 301-37 12322	899040679	Nezafati	Peter
+VitalSource	Fall 2017 BUAD 301-50 11973	899891741	Franklin	April
+VitalSource	Fall 2017 BUAD 301-63 12391 (M/W)	889604674	Nguyen	Amy
+VitalSource	Fall 2017 Advance Business Communication 21331	899040679	Nezafati	Peter
+VitalSource	Fall 2017 BUAD 501-04 12199	899957377	Rizkallah	Teeanna
+VitalSource	Fall 2017 BUAD 501-05 12310	899957377	Rizkallah	Teeanna
+VitalSource	Fall 2017 BUAD 501-06 12311	889627360	Henriquez	Aja
+VitalSource	Fall 2017 CAS 101-04 20227	889649364	Dubon	Valeska
+VitalSource	Fall 2017 CAS 310-01 14113	899902647	Ramos	Michelle
+VitalSource	Fall 2017 CAS 310-03 14115	801724808	Fenning	Rachel
+VitalSource	Fall 2017 CAS 310-04 15019	889623815	Zeedyk	Sasha
+VitalSource	Fall 2017 CAS 310-05 14865	888949500	Culbertson	Sarah
+VitalSource	Fall 2017 CAS 312-01 14928	891912065	Enriquez	Judelmay
+VitalSource	Fall 2017 CHEM 371A-02 19389	890262835	Petit	Andrew
+VitalSource	Fall 2017 CHIC 345-01 19780	890270572	Serrano Najera	Jose
+VitalSource	Fall 2017 COMD 307-01 21209	888920006	Giess	Sallyann
+VitalSource	Fall 2017 COMM 201-02 12404	889642872	Russell	Frank
+VitalSource	Fall 2017 COMM 201-03 12402	889642872	Russell	Frank
+VitalSource	Fall 2017 COUN 252-01 15067	899853220	Lewis	Lea Beth
+VitalSource	Fall 2017 COUN 511-04 14677	888932480	Price	Eric
+VitalSource	Fall 2017 COUN 584-05 15268	800394553	Crippen	Cheryl
+VitalSource	Fall 2017 ECON 201-04 12155	892111170	Zhang	Fang
+VitalSource	Fall 2017 ECON 201-05 12014	892111170	Zhang	Fang
+VitalSource	Fall 2017 ECON 201-51 21417	899939821	Stanley	Denise
+VitalSource	Fall 2017 EDD 670A-02 13915	888932837	Lozano	Maritza
+VitalSource	Fall 2017 EDEL 433-03 13757	893759795	Dickey	Laurie
+VitalSource	Fall 2017 EDSC 410-01 13789	890912660	Rodriguez-Valls	Fernando
+VitalSource	Fall 2017 EDSC 449S-03 14085	800287021	Duarte	Thomas
+VitalSource	Fall 2017 EGME 306A-08 13631	888929726	Su	Siheng
+VitalSource	Fall 2017 EGME 426-01 13478	889615852	Banks	Darren
+VitalSource	Fall 2017 ENGL 99-15 16732	800691040	Dickinson	Amy
+VitalSource	Fall 2017 FIN 335-04 21088	802868554	Bystry	Phil
+VitalSource	Fall 2017 GEOL 102-01 21151	899941926	Butcher	Tish
+VitalSource	Fall 2017 GEOL 201-04 19194	899990915	Woods	Adam
+VitalSource	Fall 2017 GEOL 335-01 19195	899858989	Knott	Jeffrey
+VitalSource	Fall 2017 HCOM 100-61 13045	888914447	Moscozo	Raquel
+VitalSource	Fall 2017 HCOM 100-79 21117	800286304	Blumer	Collette
+VitalSource	Fall 2017 HCOM 102-09 12493	800286304	Blumer	Collette
+VitalSource	Fall 2017 HCOM 235-05 19830	800286304	Blumer	Collette
+VitalSource	Fall 2017 HCOM 235-06 13014	890270101	Green	Latoya
+VitalSource	Fall 2017 HCOM 235-08 12502	890270101	Green	Latoya
+VitalSource	Fall 2017 HESC 353-02 15123	802670877	Fisher	Koren
+VitalSource	Fall 2017 HESC 400-05 14806	894321991	Buch	Amy
+VitalSource	Fall 2017 HESC 411-02 15277	892109257	Espinoza	Lilia
+VitalSource	Fall 2017 HESC 411-03 14871	892109257	Espinoza	Lilia
+VitalSource	Fall 2017 HESC 411-80 14202	892856808	Vargas	Joseph
+VitalSource	Fall 2017 HESC 440-01 14203	890035264	Dust	Mark
+VitalSource	Fall 2017 HESC 440-03 14924	890035264	Dust	Mark
+VitalSource	Fall 2017 HESC 475-02 14717	892109257	Espinoza	Lilia
+VitalSource	Fall 2017 HESC 475-03 14892	892838947	Distefano	Anthony
+VitalSource	Fall 2017 HESC 475-04 20273	892838947	Distefano	Anthony
+VitalSource	Fall 2017 HESC 500-01 14223	894850676	Yang	Joshua
+VitalSource	Fall 2017 HESC 510-01 14893	894850684	Wood	Michele
+VitalSource	Fall 2017 HUSR 396-03 14758	892102807	Tsong	Yuying
+VitalSource	Fall 2017 ISDS 418-01 12182	899993091	Yang	Samuel
+VitalSource	Fall 2017 ISDS 555-59 12375	890300502	Barlow	Jordan
+VitalSource	Fall 2017 KNES 202-02 14719	802670877	Fisher	Koren
+VitalSource	Fall 2017 KNES 202-06 15281	802670877	Fisher	Koren
+VitalSource	Fall 2017 KNES 342-58 14886	899992333	Haney	Maureen
+VitalSource	Fall 2017 KNES 348-04 15143	802706549	Costa	Pablo
+VitalSource	Fall 2017 KNES 349-02 14837	899969083	Coburn	Jared
+VitalSource	Fall 2017 KNES 349-06 15246	899969083	Coburn	Jared
+VitalSource	Fall 2017 KNES 349-80 14965	893737361	Eyanson	Jeffrey
+VitalSource	Fall 2017 KNES 353-02 15091	802670877	Fisher	Koren
+VitalSource	Fall 2017 KNES 383-80 15193	899710834	Rodriguez	Chelsea
+VitalSource	Fall 2017 KNES 453-01 14941	800914319	Rounds	Julie
+VitalSource	Fall 2017 KNES 454-01 14417	802670877	Fisher	Koren
+VitalSource	Fall 2017 KNES 510-01 14483	802706549	Costa	Pablo
+VitalSource	Fall 2017 LING 307-01 20714	888920006	Giess	Sallyann
+VitalSource	Fall 2017 MATH 250B-01 20654	894349745	Moretti	Michael
+VitalSource	Fall 2017 MATH 250B-07 18742	891520215	Verdugo	Anael
+VitalSource	Fall 2017 MATH 270A-01 17929	800409450	Hall	Nathaniel
+VitalSource	Fall 2017 MATH 270A-02 17928	800409450	Hall	Nathaniel
+VitalSource	Fall 2017 MATH 270A-03 18727	800409450	Hall	Nathaniel
+VitalSource	Fall 2017 MATH 270A-04 18809	802663013	Miyahara	Jeffrey
+VitalSource	Fall 2017 MATH 270A-85 19410	802663013	Miyahara	Jeffrey
+VitalSource	Fall 2017 MATH 270B-03 18910	800409450	Hall	Nathaniel
+VitalSource	Fall 2017 MATH 440-01 19321	891520215	Verdugo	Anael
+VitalSource	Fall 2017 MGMT 340-19 12273	889248365	North	Angela
+VitalSource	Fall 2017 MGMT 340-24 20755	803628858	Beenen	Gerard
+VitalSource	Fall 2017 Organizational Behavior 21338	803628858	Beenen	Gerard
+VitalSource	Fall 2017 MGMT 444-02 11970	893759969	Frierson	Andrae
+VitalSource	Fall 2017 MGMT 449-10 11868	889646196	Wilk	Lawrence
+VitalSource	Fall 2017 MKTG 445-01 12150	888948452	Ebrahimi	Mahdi
+VitalSource	Fall 2017 MSW 514-02 20573	892844341	Chenot	David
+VitalSource	Fall 2017 MSW 520-01 14889	892774043	Hogan	Sean
+VitalSource	Fall 2017 NURS 305-50 15132	894328004	James	Sandra
+VitalSource	Fall 2017 PHYS 301-50 20308	899976997	Childers	Greg
+VitalSource	Fall 2017 PHYS 340-01 18974	890295520	Passante	Gina
+VitalSource	Fall 2017 POSC 300-05 17479	899555155	Reese	Christopher
+VitalSource	Fall 2017 PSYC 110-08 16387	892086877	Wagoner	Joseph
+VitalSource	Fall 2017 PSYC 202-17 16349	892086877	Wagoner	Joseph
+VitalSource	Fall 2017 PSYC 202-19 16351	892086877	Wagoner	Joseph
+VitalSource	Fall 2017 PSYC 300-03 15808	800647075	Cheng	Emily
+VitalSource	Fall 2017 PSYC 300-04 16429	800647075	Cheng	Emily
+VitalSource	Fall 2017 PSYC 302-01 16889	888954450	Roberts	Adam
+VitalSource	Fall 2017 PSYC 331-05 16802	800708984	Tran	Timothy
+VitalSource	Fall 2017 PSYC 331-50 16091	892149915	Louis	Ashleigh
+VitalSource	Fall 2017 PSYC 331-51 16905	892149915	Louis	Ashleigh
+VitalSource	Fall 2017 PSYC 341-10 17145	800708984	Tran	Timothy
+VitalSource	Fall 2017 PSYC 465-01 16256	892086877	Wagoner	Joseph
+VitalSource	Fall 2017 PSYC 495-07 16558	800708984	Tran	Timothy
+VitalSource	Fall 2017 PSYC 495-52 20687	800708984	Tran	Timothy
+VitalSource	Fall 2017 SOCI 308-03 16397	800548562	Langley	Ryan
+VitalSource	Fall 2017 SPAN 214-02 17540	889643623	Powell	Eilene
+VitalSource	Fall 2017 THTR 375-01 11203	888921186	Yankee	Luke
+VitalSource	Fall 2017 THTR 375-51 11444	888903630	Reifsnyder	Heather
+VitalSource	Fang Zhang Sandbox	892111170	Zhang	Fang
+VitalSource	Summer 2017 CPSC 311-01 11384	800896664	Harnick-Shaprio	Beth
+VitalSource	Summer 2017 MGMT 449-10 11469	889630141	Srikant	Chethan
+VitalSource	Fall 2017 CPSC 311-06 21530	800896664	Harnick-Shaprio	Beth
+VitalSource	Fall 2017 HESC 400-52 21548	894321991	Buch	Amy
+VitalSource	Fall 2017 HESC 440-06 21549	890035264	Dust	Mark
+VitalSource	Fall 2017 HESC KNES 342 Koser	899935407	Koser	Kathy
+VitalSource	Fall 2017 CHEM 315-03 21705	889640934	Curtis	Daniel
+VitalSource	Fall 2017 CHEM 315-04 21706	890291388	Fry	Allyson
+VitalSource	Fall 2017 SOCI 351-04 21777	800725822	Rainey	Joanna
+VitalSource	Fall 2017 COUN HUSR 380-07	892423161	Sevier	Mia
+VitalSource	Fall 2017 COUN HUSR 380-06	892423161	Sevier	Mia
+VitalSource	Fall 2017 BUAD 301-86 21977 (Irvine)	889604674	Nguyen	Amy
+VitalSource	Fall 2017 HCOM 102-28 22090	888914447	Moscozo	Raquel
+VitalSource	Fall 2017 MATH 270A-06 19083	800409450	Hall	Nathaniel
+VitalSource	Fall 2017 COUN HUSR 380 Combined	892102807	Tsong	Yuying
+VitalSource	Fall 2017 CAS 301-25 20236	891912065	Enriquez	Judelmay
+VitalSource	Fall 2017 PSYC 201 Nguyen	897249330	Nguyen	Angela-Minhtu
+VitalSource	Fall 2017 CPSC 335 Wortman	894847466	Wortman	Kevin
+Turnitin Assignment	John Carroll Sandbox		Carroll	John
+Turnitin Assignment	Summer 2017 MGMT 340-70 11224	803628858	Beenen	Gerard
+Turnitin Assignment	Summer 2017 ANTH 304-70 11211	899954333	Erickson	Barbra
+Turnitin Assignment	Adam Roberts Sandbox	888954450	Roberts	Adam
+Turnitin Assignment	Christine Gardiner Sandbox	899334486	Gardiner	Christine
+Turnitin Assignment	Deanna Jung Sandbox	899002075	Jung	Deanna
+Turnitin Assignment	Fall 2017 ACCT 506-01 12173	899991715	Fraser	Linda
+Turnitin Assignment	Fall 2017 AFAM 311-51 16667	800335424	Riggins	Charlene
+Turnitin Assignment	Fall 2017 AFAM 335-01 16669	800335424	Riggins	Charlene
+Turnitin Assignment	Fall 2017 AFAM 335-80 16781	800335424	Riggins	Charlene
+Turnitin Assignment	Fall 2017 AMST 101-05 16857	800766339	Horwitz	Ariella
+Turnitin Assignment	Fall 2017 AMST 101-50 16860	800204554	Falero	Sandra
+Turnitin Assignment	Fall 2017 AMST 101-51 20746	800204554	Falero	Sandra
+Turnitin Assignment	Fall 2017 AMST 201-03 15456	892250200	Linkletter	Karen
+Turnitin Assignment	Fall 2017 AMST 201-12 16864	892416868	Lewinnek	Elaine
+Turnitin Assignment	Fall 2017 AMST 300-01 15460	801973389	Covert-Ortiz	Patrick
+Turnitin Assignment	Fall 2017 AMST 300-02 15461	801973389	Covert-Ortiz	Patrick
+Turnitin Assignment	Fall 2017 AMST 300-11 16434	890942857	Abnet	Dustin
+Turnitin Assignment	Fall 2017 AMST 300-15 21113	800204554	Falero	Sandra
+Turnitin Assignment	Fall 2017 AMST 300-50 16870	899525372	Jackson	Brande
+Turnitin Assignment	Fall 2017 AMST 300-51 16871	899525372	Jackson	Brande
+Turnitin Assignment	Fall 2017 AMST 300-52 16872	800204554	Falero	Sandra
+Turnitin Assignment	Fall 2017 AMST 300-53 16873	893741421	Suarez	Elizabeth P.
+Turnitin Assignment	Fall 2017 AMST 300-54 17081	893741421	Suarez	Elizabeth P.
+Turnitin Assignment	Fall 2017 AMST 300-55 21459	893741421	Suarez	Elizabeth P.
+Turnitin Assignment	Fall 2017 AMST 301-01 16878	800338550	Agnew	Heather
+Turnitin Assignment	Fall 2017 AMST 301-14 20747	801973389	Covert-Ortiz	Patrick
+Turnitin Assignment	Fall 2017 AMST 301-15 21111	899922850	Sekhon	Sharon
+Turnitin Assignment	Fall 2017 AMST 301-16 21112	800338550	Agnew	Heather
+Turnitin Assignment	Fall 2017 AMST 301-50 15465	899905707	Ring	Arlene
+Turnitin Assignment	Fall 2017 AMST 301-51 16277	899922850	Sekhon	Sharon
+Turnitin Assignment	Fall 2017 AMST 301-55 21458	893741421	Suarez	Elizabeth P.
+Turnitin Assignment	Fall 2017 AMST 320-06 16894	800338550	Agnew	Heather
+Turnitin Assignment	Fall 2017 AMST 324-01 17449	891543001	Woo	Susie
+Turnitin Assignment	Fall 2017 AMST 324-02 17482	899525372	Jackson	Brande
+Turnitin Assignment	Fall 2017 AMST 350-02 17091	892416868	Lewinnek	Elaine
+Turnitin Assignment	Fall 2017 AMST 390-01 17090	892421645	Lane	Carrie
+Turnitin Assignment	Fall 2017 AMST 395-05 16900	888941861	Fingal	Sara
+Turnitin Assignment	Fall 2017 AMST 395-08 16901	888941861	Fingal	Sara
+Turnitin Assignment	Fall 2017 AMST 401T-01 16902	892421645	Lane	Carrie
+Turnitin Assignment	Fall 2017 AMST 404-01 21110	888941861	Fingal	Sara
+Turnitin Assignment	Fall 2017 AMST 408-01 20781	890942857	Abnet	Dustin
+Turnitin Assignment	Fall 2017 ANTH 101-01 16922	806225371	Nguyen	Nga
+Turnitin Assignment	Fall 2017 ANTH 101-04 17404	800020307	Commitante	Raffaella
+Turnitin Assignment	Fall 2017 ANTH 101-05 17560	800020307	Commitante	Raffaella
+Turnitin Assignment	Fall 2017 ANTH 101-50 16328	899333165	Fashing	Peter
+Turnitin Assignment	Fall 2017 ANTH 101-51 16585	899333165	Fashing	Peter
+Turnitin Assignment	Fall 2017 ANTH 101-52 16586	899997985	Bock	John
+Turnitin Assignment	Fall 2017 ANTH 102-01 16712	894518059	Stocker	Karen
+Turnitin Assignment	Fall 2017 ANTH 300-01 20184	894518059	Stocker	Karen
+Turnitin Assignment	Fall 2017 ANTH 301-50 16482	806225371	Nguyen	Nga
+Turnitin Assignment	Fall 2017 ANTH 301-51 16588	806225371	Nguyen	Nga
+Turnitin Assignment	Fall 2017 ANTH 315-01 17556	899998462	Johnson	Sara
+Turnitin Assignment	Fall 2017 ANTH 315-51 16560	800568321	Montagne	Meredith
+Turnitin Assignment	Fall 2017 ANTH 316-01 16700	894837079	Pillsworth	Elizabeth
+Turnitin Assignment	Fall 2017 ANTH 316-02 17555	894837079	Pillsworth	Elizabeth
+Turnitin Assignment	Fall 2017 ANTH 316-51 20218	800568321	Montagne	Meredith
+Turnitin Assignment	Fall 2017 ANTH 316-52 20219	800568321	Montagne	Meredith
+Turnitin Assignment	Fall 2017 ANTH 321-50 16538	892427857	Bowser	Brenda
+Turnitin Assignment	Fall 2017 ANTH 342-50 16701	800568321	Montagne	Meredith
+Turnitin Assignment	Fall 2017 ANTH 342-51 16928	800020307	Commitante	Raffaella
+Turnitin Assignment	Fall 2017 ANTH 442-01 20224	894837079	Pillsworth	Elizabeth
+Turnitin Assignment	Fall 2017 ANTH 480-50 21363	899954333	Erickson	Barbra
+Turnitin Assignment	Fall 2017 ANTH 504T-01 17165	894518059	Stocker	Karen
+Turnitin Assignment	Fall 2017 ART 300-01 10034	800624231	Hall	Elizabeth
+Turnitin Assignment	Fall 2017 ART 300-04 10036	800624231	Hall	Elizabeth
+Turnitin Assignment	Fall 2017 ART 300-09 10038	897390282	Hoffman	Laura
+Turnitin Assignment	Fall 2017 ART 311-01 10043	899878664	Winters	Debra
+Turnitin Assignment	Fall 2017 ASAM 342-01 19888	800311474	Leano	Ryan
+Turnitin Assignment	Fall 2017 BIOL 101-11 17573	802716225	Henderson	Krista
+Turnitin Assignment	Fall 2017 BIOL 101-13 19274	899835110	Hahn	Krista
+Turnitin Assignment	Fall 2017 BIOL 101-14 17572	800307795	Menvielle	Maryanne
+Turnitin Assignment	Fall 2017 BIOL 101-50 18566	802716225	Henderson	Krista
+Turnitin Assignment	Fall 2017 BIOL 101-51 18673	800307795	Menvielle	Maryanne
+Turnitin Assignment	Fall 2017 BIOL 102-01 17590	899898126	Tommerup	Megan
+Turnitin Assignment	Fall 2017 BIOL 102-02 17591	800722670	Matthews	Anne
+Turnitin Assignment	Fall 2017 BIOL 102-03 17592	890901374	Rosa	Valerie
+Turnitin Assignment	Fall 2017 BIOL 151-02 19137	806214946	Miyamoto	Alison
+Turnitin Assignment	Fall 2017 BIOL 151-16 19151	806214946	Miyamoto	Alison
+Turnitin Assignment	Fall 2017 BIOL 151-22 19219	899917231	Casem	Merri Lynn
+Turnitin Assignment	Fall 2017 BIOL 151-24 19221	899917231	Casem	Merri Lynn
+Turnitin Assignment	Fall 2017 BIOL 202-01 17593	898528518	Overstreet	Cathie
+Turnitin Assignment	Fall 2017 BIOL 253L-06 20395	806195491	Nikolaidis	Nikolas
+Turnitin Assignment	Fall 2017 BIOL 254L-01 20400	899873293	Stapp	Paul
+Turnitin Assignment	Fall 2017 BIOL 254L-02 20412	899873293	Stapp	Paul
+Turnitin Assignment	Fall 2017 BIOL 254L-03 20413	899873293	Stapp	Paul
+Turnitin Assignment	Fall 2017 BIOL 254L-04 20414	899873293	Stapp	Paul
+Turnitin Assignment	Fall 2017 BIOL 254L-05 20431	899873293	Stapp	Paul
+Turnitin Assignment	Fall 2017 BIOL 305-01 18963	800307795	Menvielle	Maryanne
+Turnitin Assignment	Fall 2017 BIOL 360-50 17614	802716225	Henderson	Krista
+Turnitin Assignment	Fall 2017 BIOL 425-01 21215	803005321	Patel	Nilay
+Turnitin Assignment	Fall 2017 BIOL 444-01 20518	899524532	Schenk	Jochen
+Turnitin Assignment	Fall 2017 BIOL 496-16 18373	806214946	Miyamoto	Alison
+Turnitin Assignment	Fall 2017 BIOL 498-04 18830	899917231	Casem	Merri Lynn
+Turnitin Assignment	Fall 2017 BIOL 500C-01 18561	890283211	Chaffee	Carol
+Turnitin Assignment	Fall 2017 BUAD 201-12 11710	801374521	Gordon	Howard
+Turnitin Assignment	Fall 2017 BUAD 201-14 11711	801374521	Gordon	Howard
+Turnitin Assignment	Fall 2017 BUAD 201-21 12382	801374521	Gordon	Howard
+Turnitin Assignment	Fall 2017 BUAD 301-01 11713	899891741	Franklin	April
+Turnitin Assignment	Fall 2017 BUAD 301-13 11871	800810459	Mackie	Carole
+Turnitin Assignment	Fall 2017 BUAD 301-22 12114 (Friday)	889604674	Nguyen	Amy
+Turnitin Assignment	Fall 2017 BUAD 301-25 11719	890246531	Smolek	Valerie
+Turnitin Assignment	Fall 2017 BUAD 301-31 12219	889605770	Rodriguez	Eric
+Turnitin Assignment	Fall 2017 BUAD 301-36 12223	801374521	Gordon	Howard
+Turnitin Assignment	Fall 2017 BUAD 301-50 11973	899891741	Franklin	April
+Turnitin Assignment	Fall 2017 BUAD 301-63 12391 (M/W)	889604674	Nguyen	Amy
+Turnitin Assignment	Fall 2017 BUAD 301-65 12393	890319643	Hillstrom	Laura
+Turnitin Assignment	Fall 2017 BUAD 301-85 12224		Axtell	Christopher
+Turnitin Assignment	Fall 2017 BUAD 501-06 12311	889627360	Henriquez	Aja
+Turnitin Assignment	Fall 2017 CAS 101-02 14098	889595278	Ferris	Jennifer
+Turnitin Assignment	Fall 2017 CAS 101-03 15017	800564643	Wietstock	Cathleen
+Turnitin Assignment	Fall 2017 CAS 101-80 14745	806222329	Carrick	Nathalie
+Turnitin Assignment	Fall 2017 CAS 201-80 15018	898035175	Rivera	Tisha
+Turnitin Assignment	Fall 2017 CAS 300-02 14100	890901226	George	Sarah
+Turnitin Assignment	Fall 2017 CAS 300-10 20225	890901226	George	Sarah
+Turnitin Assignment	Fall 2017 CAS 300-85 14105	890901226	George	Sarah
+Turnitin Assignment	Fall 2017 CAS 301-01 14106	896223435	Stout	Debra
+Turnitin Assignment	Fall 2017 CAS 301-05 14108	896223435	Stout	Debra
+Turnitin Assignment	Fall 2017 CAS 301-09 14110	893759415	Baker	Jason
+Turnitin Assignment	Fall 2017 CAS 301-13 14944	890285430	Riches	Brian
+Turnitin Assignment	Fall 2017 CAS 301-15 14946	890285430	Riches	Brian
+Turnitin Assignment	Fall 2017 CAS 301-21 15025	806227971	Roberts	Sarana
+Turnitin Assignment	Fall 2017 CAS 301-23 15362	806227971	Roberts	Sarana
+Turnitin Assignment	Fall 2017 CAS 305-01 14685	802483818	Shawesh	Sarah
+Turnitin Assignment	Fall 2017 CAS 310-03 14115	801724808	Fenning	Rachel
+Turnitin Assignment	Fall 2017 CAS 315-50 14117	800078834	Grier	Leslie
+Turnitin Assignment	Fall 2017 CAS 321-01 14679	802483818	Shawesh	Sarah
+Turnitin Assignment	Fall 2017 CAS 321-50 15333	899970511	Yen	Shu-Chen
+Turnitin Assignment	Fall 2017 CAS 325A-01 14118	899970511	Yen	Shu-Chen
+Turnitin Assignment	Fall 2017 CAS 325A-02 14119	800564643	Wietstock	Cathleen
+Turnitin Assignment	Fall 2017 CAS 325A-50 14779	899951990	Seidman	Sharon
+Turnitin Assignment	Fall 2017 CAS 325A-85 15335	800564643	Wietstock	Cathleen
+Turnitin Assignment	Fall 2017 CAS 325B-04 14123	890285430	Riches	Brian
+Turnitin Assignment	Fall 2017 CAS 325B-07 20247	806227971	Roberts	Sarana
+Turnitin Assignment	Fall 2017 CAS 340-03 14707	802483818	Shawesh	Sarah
+Turnitin Assignment	Fall 2017 CAS 340-04 20248	894857598	Richards	Holly
+Turnitin Assignment	Fall 2017 CAS 340-50 15174	898035175	Rivera	Tisha
+Turnitin Assignment	Fall 2017 CAS 345-01 21097	899902647	Ramos	Michelle
+Turnitin Assignment	Fall 2017 CAS 346-01 15339	892044900	Castro	Nora
+Turnitin Assignment	Fall 2017 CAS 360-50 14126	892779539	Kim	Janna
+Turnitin Assignment	Fall 2017 CAS 394-02 14128	802483818	Shawesh	Sarah
+Turnitin Assignment	Fall 2017 CAS 464-01 14133	802483818	Shawesh	Sarah
+Turnitin Assignment	Fall 2017 CAS 494-01 14136	801724808	Fenning	Rachel
+Turnitin Assignment	Fall 2017 CHEM 100L-04 18716	894711647	Hua	Tyler
+Turnitin Assignment	Fall 2017 CHEM 100L-06 19253	894711647	Hua	Tyler
+Turnitin Assignment	Fall 2017 CHEM 120B-06 18351	893281014	Groves	Michael
+Turnitin Assignment	Fall 2017 CHEM 120B-08 18622	899737217	Matthew	Beena
+Turnitin Assignment	Fall 2017 CHEM 120B-10 19667	800778904	Tran	Margaret
+Turnitin Assignment	Fall 2017 CHEM 120B-14 19663	892999715	Nguyen	Matthew
+Turnitin Assignment	Fall 2017 CHEM 120B-24 19095	800778904	Tran	Margaret
+Turnitin Assignment	Fall 2017 CHEM 120B-35 19251	892140237	Li	Sissi
+Turnitin Assignment	Fall 2017 CHEM 316-01 19724	800778904	Tran	Margaret
+Turnitin Assignment	Fall 2017 CHEM 316-04 19727	889615068	Villafane-Garcia	Sachel
+Turnitin Assignment	Fall 2017 CHEM 316-13 21439	888951175	Jalali-Heravi	Mehdi
+Turnitin Assignment	Fall 2017 CHEM 325-01 18761	890291388	Fry	Allyson
+Turnitin Assignment	Fall 2017 CHEM 361B-01 19111	800883902	Axelrod	Herbert
+Turnitin Assignment	Fall 2017 CHEM 371A-02 19389	890262835	Petit	Andrew
+Turnitin Assignment	Fall 2017 COMD 499-04 21271	899864524	Kitselman	Kurt
+Turnitin Assignment	Fall 2017 COMM 233-80 12916	899898936	Hart	John
+Turnitin Assignment	Fall 2017 COMM 301-01 12410	803025105	Rashidi	Waleed
+Turnitin Assignment	Fall 2017 COMM 447-50 12800	899986590	Ohl	Coral
+Turnitin Assignment	Fall 2017 COMM 448T-01 12860	803025105	Rashidi	Waleed
+Turnitin Assignment	Fall 2017 COMM 449-50 12752	899986590	Ohl	Coral
+Turnitin Assignment	Fall 2017 COMM 464-01 12937	899959464	Witmer	Diane
+Turnitin Assignment	Fall 2017 COUN 500-02 19848	888932480	Price	Eric
+Turnitin Assignment	Fall 2017 COUN 524-01 14641	892248238	Nguyen	Thuy
+Turnitin Assignment	Fall 2017 COUN 524-02 14705	892248238	Nguyen	Thuy
+Turnitin Assignment	Fall 2017 COUN 524-70 21349	899973572	Brew	Leah
+Turnitin Assignment	Fall 2017 COUN 527-01 14179	802743658	Mejia	Olga
+Turnitin Assignment	Fall 2017 COUN 528-02 14866	802743658	Mejia	Olga
+Turnitin Assignment	Fall 2017 COUN 584-03 15055	802743658	Mejia	Olga
+Turnitin Assignment	Fall 2017 COUN 590-02 15167	802743658	Mejia	Olga
+Turnitin Assignment	Fall 2017 CPSC 311-03 13402	894340256	Radfar	Pouya
+Turnitin Assignment	Fall 2017 CPSC 311-05 21501	894340256	Radfar	Pouya
+Turnitin Assignment	Fall 2017 CPSC 313-50 20546	805687928	Hariri	Sara
+Turnitin Assignment	Fall 2017 CPSC 313-51 20547	805687928	Hariri	Sara
+Turnitin Assignment	Fall 2017 CPSC 313-52 13134	805687928	Hariri	Sara
+Turnitin Assignment	Fall 2017 CPSC 313-53 20820	805687928	Hariri	Sara
+Turnitin Assignment	Fall 2017 CPSC 313-54 13135	894340256	Radfar	Pouya
+Turnitin Assignment	Fall 2017 CPSC 313-55 13287	892129826	Ghadami	Sara
+Turnitin Assignment	Fall 2017 CPSC 313-56 13136	899991798	Martinazzi	Joseph
+Turnitin Assignment	Fall 2017 CPSC 313-57 13138	899991798	Martinazzi	Joseph
+Turnitin Assignment	Fall 2017 CPSC 315-05 21499	894340256	Radfar	Pouya
+Turnitin Assignment	Fall 2017 CPSC 332-01 13139	888939261	Han	Wenlin
+Turnitin Assignment	Fall 2017 CPSC 332-02 13301	888939261	Han	Wenlin
+Turnitin Assignment	Fall 2017 CPSC 481-01 13141	888939261	Han	Wenlin
+Turnitin Assignment	Fall 2017 CPSC 551-01 13393	894352939	Reed	Nathan
+Turnitin Assignment	Fall 2017 CRJU 100-03 17129	802415802	Champion	Christine
+Turnitin Assignment	Fall 2017 CRJU 320-01 17230	899333140	Tucker	Justin
+Turnitin Assignment	Fall 2017 CRJU 330-02 16682	888916855	Maziarka	Kristen
+Turnitin Assignment	Fall 2017 CRJU 340-06 16987	892779307	Spiropoulos	Georgia
+Turnitin Assignment	Fall 2017 CRJU 345-04 20726	802415802	Champion	Christine
+Turnitin Assignment	Fall 2017 CRJU 440-01 17066	892779307	Spiropoulos	Georgia
+Turnitin Assignment	Fall 2017 CTVA 100-50 12649	899898936	Hart	John
+Turnitin Assignment	Fall 2017 CTVA 100-51 20767	899898936	Hart	John
+Turnitin Assignment	Fall 2017 CTVA 349T-02 20312	891505257	Dillon	Mike
+Turnitin Assignment	Fall 2017 DANC 301-01 10126	894917947	Tabback	Amy
+Turnitin Assignment	Fall 2017 DANC 301-02 10127	894917947	Tabback	Amy
+Turnitin Assignment	Fall 2017 DANC 301-03 10128	894917947	Tabback	Amy
+Turnitin Assignment	Fall 2017 ECON 201-04 12155	892111170	Zhang	Fang
+Turnitin Assignment	Fall 2017 ECON 201-05 12014	892111170	Zhang	Fang
+Turnitin Assignment	Fall 2017 ECON 418-01 21365	890290646	Huntington-Klein	Nick
+Turnitin Assignment	Fall 2017 ECON 462-02 21366	890297120	Livy	Mitchell
+Turnitin Assignment	Fall 2017 ECON 490-01 20511	894858752	Kleinjans	Kristin
+Turnitin Assignment	Fall 2017 EDAD 503-41 19655	890274624	Gutierrez Keeton	Rebecca
+Turnitin Assignment	Fall 2017 EDEL 532-50 13778	803060706	Brye	Michelle
+Turnitin Assignment	Fall 2017 EGCE 377-01 13171	802305912	Abdulkarim	Muslim
+Turnitin Assignment	Fall 2017 EGCE 377-02 13405	802305912	Abdulkarim	Muslim
+Turnitin Assignment	Fall 2017 EGCE 428L-02 13697	893152553	Alasoosy	Fawaz
+Turnitin Assignment	Fall 2017 EGCE 468-02 20667	890913577	Sharma	Deepak
+Turnitin Assignment	Fall 2017 EGCE 538-01 13587	890913577	Sharma	Deepak
+Turnitin Assignment	Fall 2017 EGCE 597-50 13406	892109042	Struckhoff	Garrett
+Turnitin Assignment	Fall 2017 EGCE 597-51 13223	890917776	Kurwadkar	Sudarshan
+Turnitin Assignment	Fall 2017 EGCE 598-09 13347	890917776	Kurwadkar	Sudarshan
+Turnitin Assignment	Fall 2017 EGCP 280-07 13534	889615639	Bai	Yu
+Turnitin Assignment	Fall 2017 EGCP 281-03 13679	890305725	Turi	Michael
+Turnitin Assignment	Fall 2017 EGCP 446-02 13682	889615639	Bai	Yu
+Turnitin Assignment	Fall 2017 EGCP 456-01 13300	890917248	Choi	Yoonsuk
+Turnitin Assignment	Fall 2017 EGCP 456-05 13688	890917248	Choi	Yoonsuk
+Turnitin Assignment	Fall 2017 EGCP 456-06 13690	890305725	Turi	Michael
+Turnitin Assignment	Fall 2017 EGCP 463-01 20512	889615639	Bai	Yu
+Turnitin Assignment	Fall 2017 EGCP 542-03 13552	890917248	Choi	Yoonsuk
+Turnitin Assignment	Fall 2017 EGCP 542-04 13584	890917248	Choi	Yoonsuk
+Turnitin Assignment	Fall 2017 EGEE 401-01 13707	890270473	Garner	James
+Turnitin Assignment	Fall 2017 EGME 456-01 13642	890298938	Weiss	Hope
+Turnitin Assignment	Fall 2017 ENGL 101-05 15567	894807288	Brody	Jaime
+Turnitin Assignment	Fall 2017 ENGL 101-10 15570	894807288	Brody	Jaime
+Turnitin Assignment	Fall 2017 ENGL 101-15 15572	800088791	Middleton	Donna
+Turnitin Assignment	Fall 2017 ENGL 101-17 15574	800482812	Taylor	Joy
+Turnitin Assignment	Fall 2017 ENGL 101-20 16817	800088791	Middleton	Donna
+Turnitin Assignment	Fall 2017 ENGL 101-21 15576	800072134	Wilcox	Tom
+Turnitin Assignment	Fall 2017 ENGL 101-23 15578	889630216	Heisler	Ian
+Turnitin Assignment	Fall 2017 ENGL 101-47 19849	892986233	Ciavarella	Catherine
+Turnitin Assignment	Fall 2017 ENGL 101-49 15591	893739326	Goldman	Shannon
+Turnitin Assignment	Fall 2017 ENGL 101-52 16528	800691040	Dickinson	Amy
+Turnitin Assignment	Fall 2017 ENGL 101-53 16536	800214405	Matuszewski	Joanna
+Turnitin Assignment	Fall 2017 ENGL 101-58 17366	800214405	Matuszewski	Joanna
+Turnitin Assignment	Fall 2017 ENGL 101-64 16618	800691040	Dickinson	Amy
+Turnitin Assignment	Fall 2017 ENGL 101-65 16626	800214405	Matuszewski	Joanna
+Turnitin Assignment	Fall 2017 ENGL 101-70 16631	800810459	Mackie	Carole
+Turnitin Assignment	Fall 2017 ENGL 101-71 16632	800597080	Murphree	Rachel
+Turnitin Assignment	Fall 2017 ENGL 101-77 16638	800597080	Murphree	Rachel
+Turnitin Assignment	Fall 2017 ENGL 300-03 19982	890322969	Pinuelas	Edward
+Turnitin Assignment	Fall 2017 ENGL 301-08 16744	899991608	Shen	Yichin
+Turnitin Assignment	Fall 2017 ENGL 301-11 17380	800395105	Medrano	April
+Turnitin Assignment	Fall 2017 ENGL 301-19 19919	899991608	Shen	Yichin
+Turnitin Assignment	Fall 2017 ENGL 301-20 19920	899937114	Sawicki	Sherri
+Turnitin Assignment	Fall 2017 ENGL 301-21 19946	800072134	Wilcox	Tom
+Turnitin Assignment	Fall 2017 ENGL 301-24 19949	899937114	Sawicki	Sherri
+Turnitin Assignment	Fall 2017 ENGL 301-27 19952	800072134	Wilcox	Tom
+Turnitin Assignment	Fall 2017 ENGL 301-29 19954	899256176	Novak	Amy
+Turnitin Assignment	Fall 2017 ENGL 301-32 19957	800072134	Wilcox	Tom
+Turnitin Assignment	Fall 2017 ENGL 301-33 19958	899937114	Sawicki	Sherri
+Turnitin Assignment	Fall 2017 ENGL 301-50 19963	892833864	Bruce	Leslie
+Turnitin Assignment	Fall 2017 ENGL 360-01 16501	892833864	Bruce	Leslie
+Turnitin Assignment	Fall 2017 ENGL 360-02 17473	892833864	Bruce	Leslie
+Turnitin Assignment	Fall 2017 ENGL 591T-01 19993	899976799	Blaine	Marlin
+Turnitin Assignment	Fall 2017 ENGL 99-01 16722	802658807	Tavasolian	Amber
+Turnitin Assignment	Fall 2017 ENGL 99-10 17029	802658807	Tavasolian	Amber
+Turnitin Assignment	Fall 2017 ENGL 99-15 16732	800691040	Dickinson	Amy
+Turnitin Assignment	Fall 2017 ENGL 99-17 16733	800597080	Murphree	Rachel
+Turnitin Assignment	Fall 2017 ENGL 99-19 16735	800597080	Murphree	Rachel
+Turnitin Assignment	Fall 2017 FIN 321-03 11999	802728477	Milligan	Michael
+Turnitin Assignment	Fall 2017 FIN 370-50 20023	899990543	Greco	Joe
+Turnitin Assignment	Fall 2017 FIN 370-85 21085	899990543	Greco	Joe
+Turnitin Assignment	Fall 2017 GEOG 329-01 16995	899287825	Short	Leaa
+Turnitin Assignment	Fall 2017 GEOG 329-03 17220	899287825	Short	Leaa
+Turnitin Assignment	Fall 2017 GEOG 329-04 17537	899287825	Short	Leaa
+Turnitin Assignment	Fall 2017 GEOL 101L-16 17785	889637211	Biewer	Jacob
+Turnitin Assignment	Fall 2017 GEOL 322-01 20234	802124263	Bonuso	Nicole
+Turnitin Assignment	Fall 2017 GEOL 510T-01 18639	899995708	Kirby	Matthew
+Turnitin Assignment	Fall 2017 GERO 133-02 20528	800568206	Patel	Urvi
+Turnitin Assignment	Fall 2017 GERO 500-01 17392	801424300	Fazio	Karen
+Turnitin Assignment	Fall 2017 GERO 507-01 17393	800568206	Patel	Urvi
+Turnitin Assignment	Fall 2017 GERO 535-01 19980	801424300	Fazio	Karen
+Turnitin Assignment	Fall 2017 HCOM 100-22 12826	899914709	Garcia	Wintilo
+Turnitin Assignment	Fall 2017 HCOM 100-61 13045	888914447	Moscozo	Raquel
+Turnitin Assignment	Fall 2017 HCOM 100-72 12759	899914709	Garcia	Wintilo
+Turnitin Assignment	Fall 2017 HCOM 308-02 12814	889646956	Suwinyattichaiporn	Tara
+Turnitin Assignment	Fall 2017 HCOM 308-03 12823	889646956	Suwinyattichaiporn	Tara
+Turnitin Assignment	Fall 2017 HCOM 334-01 12898	899894935	Gass	Robert
+Turnitin Assignment	Fall 2017 HCOM 500-01 21216	899964985	Bruschke	Jon
+Turnitin Assignment	Fall 2017 HESC 101-01 14191	891551616	Pineda	John
+Turnitin Assignment	Fall 2017 HESC 115-01 15269	899417208	Kim	Danny
+Turnitin Assignment	Fall 2017 HESC 416-01 20265	899417208	Kim	Danny
+Turnitin Assignment	Fall 2017 HESC 440-01 14203	890035264	Dust	Mark
+Turnitin Assignment	Fall 2017 HESC 440-03 14924	890035264	Dust	Mark
+Turnitin Assignment	Fall 2017 HESC 460-01 14204	892779372	Roberts	Rachel
+Turnitin Assignment	Fall 2017 HESC 462-01 15366	899417208	Kim	Danny
+Turnitin Assignment	Fall 2017 HESC 475-01 14205	892761198	Aquino	Jordan
+Turnitin Assignment	Fall 2017 HESC 475-02 14717	892109257	Espinoza	Lilia
+Turnitin Assignment	Fall 2017 HESC 475-03 14892	892838947	Distefano	Anthony
+Turnitin Assignment	Fall 2017 HESC 475-04 20273	892838947	Distefano	Anthony
+Turnitin Assignment	Fall 2017 HESC 475-05 20277	892761198	Aquino	Jordan
+Turnitin Assignment	Fall 2017 HESC 499-15 14689	892107384	Piazza	Jennifer
+Turnitin Assignment	Fall 2017 HESC 508-01 14224	894850684	Wood	Michele
+Turnitin Assignment	Fall 2017 HESC 509-03 21426	892838947	Distefano	Anthony
+Turnitin Assignment	Fall 2017 HIST 110A-11 15669	894859610	Neufeld	Stephen
+Turnitin Assignment	Fall 2017 HIST 110A-50 17037	899999551	Brunelle	Gayle
+Turnitin Assignment	Fall 2017 HIST 110A-51 17496	899999551	Brunelle	Gayle
+Turnitin Assignment	Fall 2017 HIST 110B-07 19987	800658742	Seager	Michael
+Turnitin Assignment	Fall 2017 HIST 110B-09 17304	800658742	Seager	Michael
+Turnitin Assignment	Fall 2017 HIST 110B-53 19990	899774822	Zacair	Philippe
+Turnitin Assignment	Fall 2017 HIST 110B-54 19991	899774822	Zacair	Philippe
+Turnitin Assignment	Fall 2017 HIST 170A-04 17307	892840695	Stern	Jessica
+Turnitin Assignment	Fall 2017 HIST 170A-05 16690	891916256	Brown-Coronel	Margie
+Turnitin Assignment	Fall 2017 HIST 170B-01 17306	899912893	Essington	Amy
+Turnitin Assignment	Fall 2017 HIST 180-05 15685	899912893	Essington	Amy
+Turnitin Assignment	Fall 2017 HIST 180-07 15686	899912893	Essington	Amy
+Turnitin Assignment	Fall 2017 HIST 180-50 17311	802795971	Janssen	Volker
+Turnitin Assignment	Fall 2017 HIST 190-01 16834	890300791	Moore Pewu	Jamila
+Turnitin Assignment	Fall 2017 HIST 190-02 16374	890300791	Moore Pewu	Jamila
+Turnitin Assignment	Fall 2017 HIST 300A-01 15688	890900186	Macmillan	Kurt
+Turnitin Assignment	Fall 2017 HIST 300B-02 16437	890900186	Macmillan	Kurt
+Turnitin Assignment	Fall 2017 HIST 360-01 19998	892410945	Tran	Lisa
+Turnitin Assignment	Fall 2017 HIST 386A-01 17331	892840695	Stern	Jessica
+Turnitin Assignment	Fall 2017 HIST 405-01 19999	892838905	Cawthra	Benjamin
+Turnitin Assignment	Fall 2017 HIST 453A-01 20005	894859610	Neufeld	Stephen
+Turnitin Assignment	Fall 2017 HIST 473C-01 20007	802795971	Janssen	Volker
+Turnitin Assignment	Fall 2017 HIST 475A-01 20008	892838905	Cawthra	Benjamin
+Turnitin Assignment	Fall 2017 HIST 490T-01 16152	892790965	Markley	Jonathan
+Turnitin Assignment	Fall 2017 HIST 499-16 15709	894859610	Neufeld	Stephen
+Turnitin Assignment	Fall 2017 HIST 501-01 15718	894859610	Neufeld	Stephen
+Turnitin Assignment	Fall 2017 HIST 572-01 15719	890302318	Shrout	Anelise
+Turnitin Assignment	Fall 2017 HONR 101A-44 19552	806222121	Tobias	Saul
+Turnitin Assignment	Fall 2017 HONR 210A-41 19488	894859610	Neufeld	Stephen
+Turnitin Assignment	Fall 2017 HONR 302T-40 19526	892838905	Cawthra	Benjamin
+Turnitin Assignment	Fall 2017 HONR 306-41 20613	899922850	Sekhon	Sharon
+Turnitin Assignment	Fall 2017 IDT 510-51 14013	899864433	Glaeser	Barbara
+Turnitin Assignment	Fall 2017 JAPN 390-01 16629	890315260	Kakihara	Satoko
+Turnitin Assignment	Fall 2017 KNES 369-01 14393	890309487	Kasamatsu	Tricia
+Turnitin Assignment	Fall 2017 KNES 384-01 14825	802289801	Itagaki	Michael
+Turnitin Assignment	Fall 2017 KNES 510-01 14483	802706549	Costa	Pablo
+Turnitin Assignment	Fall 2017 LBST 101-01 16276	806222121	Tobias	Saul
+Turnitin Assignment	Fall 2017 LBST 300-01 15732	804307791	Iyer	Lisa
+Turnitin Assignment	Fall 2017 LBST 300-03 19833	804307791	Iyer	Lisa
+Turnitin Assignment	Fall 2017 LBST 301-01 15734	804307791	Iyer	Lisa
+Turnitin Assignment	Fall 2017 LBST 301-03 17051	800395105	Medrano	April
+Turnitin Assignment	Fall 2017 LBST 482-01 16845	806222121	Tobias	Saul
+Turnitin Assignment	Fall 2017 MATH 270B-01 18664	899419873	Norman	Kimberly
+Turnitin Assignment	Fall 2017 MATH 270B-02 18743	899419873	Norman	Kimberly
+Turnitin Assignment	Fall 2017 MGMT 339-01 11785	889630687	Choi	Min
+Turnitin Assignment	Fall 2017 MGMT 339-04 11788	889630687	Choi	Min
+Turnitin Assignment	Fall 2017 MGMT 340-21 12274	892369406	Lusk	Benedicta
+Turnitin Assignment	Fall 2017 MGMT 340-22 12275	894369834	Tomkoria	Pawan
+Turnitin Assignment	Fall 2017 MGMT 340-24 20755	803628858	Beenen	Gerard
+Turnitin Assignment	Fall 2017 Organizational Behavior 21338	803628858	Beenen	Gerard
+Turnitin Assignment	Fall 2017 MGMT 350-01 11867	894369834	Tomkoria	Pawan
+Turnitin Assignment	Fall 2017 MGMT 365-01 11862	803037852	Fraser	Harold
+Turnitin Assignment	Fall 2017 MGMT 365-02 11910	803037852	Fraser	Harold
+Turnitin Assignment	Fall 2017 MGMT 432-02 12075	806223673	Muse	Lori
+Turnitin Assignment	Fall 2017 MSW 501-01 14640	889606661	Madera-Reber	Aryatna
+Turnitin Assignment	Fall 2017 MSW 501-02 15035	889606661	Madera-Reber	Aryatna
+Turnitin Assignment	Fall 2017 MSW 501-03 15177	893138479	Ji	Juye
+Turnitin Assignment	Fall 2017 MSW 511-70 21310	806228748	Mendez	Marcella
+Turnitin Assignment	Fall 2017 MSW 514-01 14851	899930093	Kim-Goh	Mikyong
+Turnitin Assignment	Fall 2017 MSW 514-02 20573	892844341	Chenot	David
+Turnitin Assignment	Fall 2017 MSW 514-03 15319	800373458	Maul	Lesli
+Turnitin Assignment	Fall 2017 MSW 520-01 14889	892774043	Hogan	Sean
+Turnitin Assignment	Fall 2017 MSW 520-03 15231	804578797	Martin	Michelle
+Turnitin Assignment	Fall 2017 MSW 523-01 14849	892774043	Hogan	Sean
+Turnitin Assignment	Fall 2017 MSW 523-02 15320	804578797	Martin	Michelle
+Turnitin Assignment	Fall 2017 MSW 550-02 14891	890283591	Lee	Karen
+Turnitin Assignment	Fall 2017 MSW 550-03 14998	899930093	Kim-Goh	Mikyong
+Turnitin Assignment	Fall 2017 MSW 570-70 21327	892774043	Hogan	Sean
+Turnitin Assignment	Fall 2017 MSW 596-02 15045	892774043	Hogan	Sean
+Turnitin Assignment	Fall 2017 MSW 596-71 21329	890899537	Lee	Linda
+Turnitin Assignment	Fall 2017 MUS 100-02 10145	892088923	Thomas	Matthew
+Turnitin Assignment	Fall 2017 MUS 355-02 10160	892088923	Thomas	Matthew
+Turnitin Assignment	Fall 2017 MUS 355-03 10638	892088923	Thomas	Matthew
+Turnitin Assignment	Fall 2017 MUS 355-05 21096	892088923	Thomas	Matthew
+Turnitin Assignment	Fall 2017 NURS 305-50 15132	894328004	James	Sandra
+Turnitin Assignment	Fall 2017 NURS 305-51 14972	802125062	Howard-York	Lisa
+Turnitin Assignment	Fall 2017 NURS 322-01 14943	800174500	Smith	Kimberly
+Turnitin Assignment	Fall 2017 NURS 322-02 14554		Russo	Michael
+Turnitin Assignment	Fall 2017 NURS 345-01 14881	897477287	Miller	Sharrica
+Turnitin Assignment	Fall 2017 NURS 345-02 15176	888932472	Fortes	Kristina
+Turnitin Assignment	Fall 2017 NURS 345-51 20429	897477287	Miller	Sharrica
+Turnitin Assignment	Fall 2017 NURS 410L-05 15226	893601104	Co	Zenaida
+Turnitin Assignment	Fall 2017 NURS 411L-07 15224	801028374	Wallace	Katrina
+Turnitin Assignment	Fall 2017 NURS 452-01 15086	894337807	Metoyer	Carol
+Turnitin Assignment	Fall 2017 NURS 452-50 20462	899981807	Ringl	Karen
+Turnitin Assignment	Fall 2017 NURS 470A-50 20465	891574295	Parsons	Karla
+Turnitin Assignment	Fall 2017 NURS 501-01 14556	801387747	Nation	Austin
+Turnitin Assignment	Fall 2017 NURS 501-50 15240	899988521	Robertson	Suzanne
+Turnitin Assignment	Fall 2017 NURS 501-52 15422	891574295	Parsons	Karla
+Turnitin Assignment	Fall 2017 NURS 520-50 15015	890284672	Quaye	Beverly
+Turnitin Assignment	Fall 2017 PHIL 100-06 16508	893768192	Heiner	Brady
+Turnitin Assignment	Fall 2017 PHIL 100-08 17087	893768192	Heiner	Brady
+Turnitin Assignment	Fall 2017 PHIL 101-01 15761	899912646	Crippen	Jr., James
+Turnitin Assignment	Fall 2017 PHIL 105-03 15764	894324177	Sher	Shlomo
+Turnitin Assignment	Fall 2017 PHIL 105-07 16466	899912646	Crippen	Jr., James
+Turnitin Assignment	Fall 2017 PHIL 106-06 16509	893759399	Howat	Andrew
+Turnitin Assignment	Fall 2017 PHIL 106-08 16824	893759399	Howat	Andrew
+Turnitin Assignment	Fall 2017 PHIL 315-02 16826	893759399	Howat	Andrew
+Turnitin Assignment	Fall 2017 PHIL 320-05 16828	894324177	Sher	Shlomo
+Turnitin Assignment	Fall 2017 POSC 560-01 20127	899334486	Gardiner	Christine
+Turnitin Assignment	Fall 2017 PSYC 101-04 16591	892777921	Scher	Christine
+Turnitin Assignment	Fall 2017 PSYC 110-08 16387	892086877	Wagoner	Joseph
+Turnitin Assignment	Fall 2017 PSYC 202-17 16349	892086877	Wagoner	Joseph
+Turnitin Assignment	Fall 2017 PSYC 202-19 16351	892086877	Wagoner	Joseph
+Turnitin Assignment	Fall 2017 PSYC 202-21 16399	899896492	Cherry	Barbara
+Turnitin Assignment	Fall 2017 PSYC 303-01 15817	899980122	Self	Eriko
+Turnitin Assignment	Fall 2017 PSYC 305-04 20198	892087586	Sosa	Giovanni
+Turnitin Assignment	Fall 2017 PSYC 305L-02 15893	892384421	Gerkens	David
+Turnitin Assignment	Fall 2017 PSYC 305L-03 17070	888954005	Pearson	Danielle
+Turnitin Assignment	Fall 2017 PSYC 306-02 16427	899255806	Trevitt	Jennifer
+Turnitin Assignment	Fall 2017 PSYC 331-03 15825	897707022	Coons	Jennifer
+Turnitin Assignment	Fall 2017 PSYC 331-04 16299	897256160	Madracki	Mary
+Turnitin Assignment	Fall 2017 PSYC 351-03 15832	806021614	Huft	Justin
+Turnitin Assignment	Fall 2017 PSYC 361-02 20203	899259964	Baker	Michael
+Turnitin Assignment	Fall 2017 PSYC 362-01 15836	802758284	Zettel-Watson	Laura
+Turnitin Assignment	Fall 2017 PSYC 391-01 16407	801897802	Alvarez	Nadia
+Turnitin Assignment	Fall 2017 PSYC 495-01 15844	897256160	Madracki	Mary
+Turnitin Assignment	Fall 2017 PSYC 495-05 15846	801897802	Alvarez	Nadia
+Turnitin Assignment	Fall 2017 PSYC 495-10 16774	801897802	Alvarez	Nadia
+Turnitin Assignment	Fall 2017 PSYC 495-11 16913	897256160	Madracki	Mary
+Turnitin Assignment	Fall 2017 PSYC 510-01 16423	897249330	Nguyen	Angela-Minhtu
+Turnitin Assignment	Fall 2017 READ 290-55 13910	896945482	Chapman	Joanne
+Turnitin Assignment	Fall 2017 READ 290-56 13973	896945482	Chapman	Joanne
+Turnitin Assignment	Fall 2017 RLST 250-50 20984	892778069	Ibrahim	Zakyi
+Turnitin Assignment	Fall 2017 RLST 321-01 21013	892086877	Wagoner	Joseph
+Turnitin Assignment	Fall 2017 RLST 371-50 21004	892778069	Ibrahim	Zakyi
+Turnitin Assignment	Fall 2017 SALP 601-01 20906	899990980	Snavely	Heather
+Turnitin Assignment	Fall 2017 SALP 601-03 20908	804161362	Espinoza	Maria Guadalupe
+Turnitin Assignment	Fall 2017 SALP 701-01 20927	893789529	Herbst	Mark
+Turnitin Assignment	Fall 2017 SALP 701-02 20928	892844549	Lee	Esther
+Turnitin Assignment	Fall 2017 SALP 705-01 20934	892844549	Lee	Esther
+Turnitin Assignment	Fall 2017 SOCI 101-03 16077	800137804	Guerrero	Lisa
+Turnitin Assignment	Fall 2017 SOCI 101-05 16079	899841621	Jerue	Roseanne
+Turnitin Assignment	Fall 2017 SOCI 101-06 16958	899841621	Jerue	Roseanne
+Turnitin Assignment	Fall 2017 SOCI 101-51 16945	800137804	Guerrero	Lisa
+Turnitin Assignment	Fall 2017 SOCI 303-01 16095	803136142	Rakovski	Carter
+Turnitin Assignment	Fall 2017 SOCI 303-07 16485	891542797	Alvarez	Anthony
+Turnitin Assignment	Fall 2017 SOCI 308-03 16397	800548562	Langley	Ryan
+Turnitin Assignment	Fall 2017 SOCI 308-04 16486	800343881	Irvine	Cynthia
+Turnitin Assignment	Fall 2017 SOCI 308-05 16540	896894052	Moss	Jessica
+Turnitin Assignment	Fall 2017 SOCI 308-06 16960	896894052	Moss	Jessica
+Turnitin Assignment	Fall 2017 SOCI 308-50 16831	800343881	Irvine	Cynthia
+Turnitin Assignment	Fall 2017 SOCI 351-03 17178	899841621	Jerue	Roseanne
+Turnitin Assignment	Fall 2017 SOCI 352-01 16129	896223583	Malagon	Maria
+Turnitin Assignment	Fall 2017 SOCI 353-01 16398	898035175	Rivera	Tisha
+Turnitin Assignment	Fall 2017 SOCI 353-02 20019	898035175	Rivera	Tisha
+Turnitin Assignment	Fall 2017 SOCI 357-01 17337	890312028	Chin	Christina
+Turnitin Assignment	Fall 2017 SOCI 357-02 17438	896223583	Malagon	Maria
+Turnitin Assignment	Fall 2017 SOCI 357-03 16290	896223583	Malagon	Maria
+Turnitin Assignment	Fall 2017 SOCI 381-01 16292	800137804	Guerrero	Lisa
+Turnitin Assignment	Fall 2017 SOCI 410-70 21344  Theories of Social Behavior	893802595	Abdel Haq	Mohammad
+Turnitin Assignment	Fall 2017 SPED 401-50 13851	893761635	Burke	Ellen
+Turnitin Assignment	Fall 2017 SPED 429-50 13897	890302854	Kressler	Benikia
+Turnitin Assignment	Fall 2017 TESL 99-01 21492	805770245	Schumaker	Denise
+Turnitin Assignment	Fall 2017 THTR 100-01 10344	890934227	Burkhalter	Tina
+Turnitin Assignment	Fall 2017 THTR 100-50 11209	894459619	Lewis	Jeremy
+Turnitin Assignment	Fall 2017 THTR 100-51 11210	894459619	Lewis	Jeremy
+Turnitin Assignment	Fall 2017 THTR 100-53 11419	894459619	Lewis	Jeremy
+Turnitin Assignment	Fall 2017 THTR 110-04 10348	800331001	Guichard	Aimee
+Turnitin Assignment	Fall 2017 THTR 110-05 11294	800331001	Guichard	Aimee
+Turnitin Assignment	Fall 2017 THTR 200-01 11488	893800169	Tyrl	Craig
+Turnitin Assignment	Fall 2017 THTR 200-02 10356	893800169	Tyrl	Craig
+Turnitin Assignment	Fall 2017 THTR 200-03 11211	893800169	Tyrl	Craig
+Turnitin Assignment	Fall 2017 THTR 375-50 11343	888916103	Fitzgerald	Thomas
+Turnitin Assignment	Fall 2017 THTR 478B-09 10391	894459619	Lewis	Jeremy
+Turnitin Assignment	Fall 2017 UNIV 100-03 19601	800624231	Hall	Elizabeth
+Turnitin Assignment	Fall 2017 WGST 205-01 16976	893821413	Kim	Grace
+Turnitin Assignment	Fall 2017 WGST 205-02 16977	893821413	Kim	Grace
+Turnitin Assignment	Fall 2017 WGST 205-03 16978	892248246	Dolhinow	Rebecca
+Turnitin Assignment	Fall 2017 WGST 205-04 17065	892248246	Dolhinow	Rebecca
+Turnitin Assignment	Fall 2017 WGST 302-02 16982	893821413	Kim	Grace
+Turnitin Assignment	Fall 2017 WGST 302-05 17284	893821413	Kim	Grace
+Turnitin Assignment	Fall 2017 WGST 302-06 19861	893821413	Kim	Grace
+Turnitin Assignment	Fall 2017 WGST 320-02 16986	890302318	Shrout	Anelise
+Turnitin Assignment	James Ruby Sandbox	806223608	Ruby	James
+Turnitin Assignment	Justin Huft Sandbox	806021614	Huft	Justin
+Turnitin Assignment	Kate Burlingham Sandbox	893767509	Burlingham	Kate
+Turnitin Assignment	Marsha Orr Sandbox	899255236	Orr	Marsha
+Turnitin Assignment	Rebecca Keeton Sandbox	890274624	Gutierrez Keeton	Rebecca
+Turnitin Assignment	Sara Fingal Sandbox	888941861	Fingal	Sara
+Turnitin Assignment	Sara Hariri Sandbox	805687928	Hariri	Sara
+Turnitin Assignment	Sherri Sawicki Sandbox	899937114	Sawicki	Sherri
+Turnitin Assignment	Summer 2017 AFAM 311-50 10022	890929813	Parry	Tyler
+Turnitin Assignment	Summer 2017 AMST 101-50 10815	892416868	Lewinnek	Elaine
+Turnitin Assignment	Summer 2017 AMST 201-01 10821	890942857	Abnet	Dustin
+Turnitin Assignment	Summer 2017 AMST 300-50 10826	892840000	Golub	Adam
+Turnitin Assignment	Summer 2017 AMST 301-50 10887	892421645	Lane	Carrie
+Turnitin Assignment	Summer 2017 AMST 301-52 11378	899922850	Sekhon	Sharon
+Turnitin Assignment	Summer 2017 AMST 401T-01 10888	890942857	Abnet	Dustin
+Turnitin Assignment	Summer 2017 ANTH 100-50 10763	892417742	Wendt	Carl
+Turnitin Assignment	Summer 2017 ANTH 100-51 10703	899898431	James	Steven
+Turnitin Assignment	Summer 2017 ANTH 101-50 10832	806225371	Nguyen	Nga
+Turnitin Assignment	Summer 2017 ANTH 101-51 10860	899997985	Bock	John
+Turnitin Assignment	Summer 2017 ANTH 301-50 10835	899333165	Fashing	Peter
+Turnitin Assignment	Summer 2017 ANTH 301-51 10862	899333165	Fashing	Peter
+Turnitin Assignment	Summer 2017 ANTH 315-50 10858	899998462	Johnson	Sara
+Turnitin Assignment	Summer 2017 ANTH 316-50 10854	894837079	Pillsworth	Elizabeth
+Turnitin Assignment	Summer 2017 ANTH 316-51 10863	894837079	Pillsworth	Elizabeth
+Turnitin Assignment	Summer 2017 ANTH 321-50 10705	892427857	Bowser	Brenda
+Turnitin Assignment	Summer 2017 ANTH 327-50 10904	899898431	James	Steven
+Turnitin Assignment	Summer 2017 ANTH 342-50 10859	899997985	Bock	John
+Turnitin Assignment	Summer 2017 ANTH 480-50 10865	802795500	Patton	John
+Turnitin Assignment	Summer 2017 ANTH 481-50 11202	892417742	Wendt	Carl
+Turnitin Assignment	Summer 2017 BIOL 101-50 10291	802716225	Henderson	Krista
+Turnitin Assignment	Summer 2017 BIOL 309-01 10294	899884670	Arce	Laura
+Turnitin Assignment	Summer 2017 BIOL 329-70 10382	803005321	Patel	Nilay
+Turnitin Assignment	Summer 2017 BIOL 495-01 10302	899898126	Tommerup	Megan
+Turnitin Assignment	Summer 2017 BUAD 201-01 10720	801374521	Gordon	Howard
+Turnitin Assignment	Summer 2017 BUAD 201-02 10748	889627360	Henriquez	Aja
+Turnitin Assignment	Summer 2017 BUAD 201-50 10730	899891741	Franklin	April
+Turnitin Assignment	Summer 2017 CAS 300-01 10901	892779539	Kim	Janna
+Turnitin Assignment	Summer 2017 CAS 301-01 10905	806227971	Roberts	Sarana
+Turnitin Assignment	Summer 2017 CAS 310-01 10922	899902647	Ramos	Michelle
+Turnitin Assignment	Summer 2017 CAS 315-50 10924	800078834	Grier	Leslie
+Turnitin Assignment	Summer 2017 CAS 325A-50 10926	899951990	Seidman	Sharon
+Turnitin Assignment	Summer 2017 CAS 340-01 10931	893759415	Baker	Jason
+Turnitin Assignment	Summer 2017 CAS 490T-50 11621	800078834	Grier	Leslie
+Turnitin Assignment	Summer 2017 CAS 494-01 10939	801724808	Fenning	Rachel
+Turnitin Assignment	Summer 2017 CHEM 120B-02 10323	800883902	Axelrod	Herbert
+Turnitin Assignment	Summer 2017 CHEM 120B-06 10327	894152966	Chino	Isabel
+Turnitin Assignment	Summer 2017 CHIC 305-51 11338	893755744	Nunez	Gabriela
+Turnitin Assignment	Summer 2017 COMM 300-90 10801	899964290	Mcalexander	Micheal
+Turnitin Assignment	Summer 2017 COMM 301-01 10802	803025105	Rashidi	Waleed
+Turnitin Assignment	Summer 2017 COMM 446-50 10833	899964290	Mcalexander	Micheal
+Turnitin Assignment	Summer 2017 COMM 449-50 10834	803025105	Rashidi	Waleed
+Turnitin Assignment	Summer 2017 COUN 522-70 11213	800394553	Crippen	Cheryl
+Turnitin Assignment	Summer 2017 COUN 524-01 10186	899973572	Brew	Leah
+Turnitin Assignment	Summer 2017 COUN 527-01 10188	802743658	Mejia	Olga
+Turnitin Assignment	Summer 2017 COUN 528-02 10189	899973572	Brew	Leah
+Turnitin Assignment	Summer 2017 CPLT 325-01 11337	899976799	Blaine	Marlin
+Turnitin Assignment	Summer 2017 CPSC 313-70 11215	894340256	Radfar	Pouya
+Turnitin Assignment	Summer 2017 CPSC 351-01 10950	805687928	Hariri	Sara
+Turnitin Assignment	Summer 2017 CPSC 351-02 10951	805687928	Hariri	Sara
+Turnitin Assignment	Summer 2017 CRJU 315-50 10357	899334486	Gardiner	Christine
+Turnitin Assignment	Summer 2017 CRJU 320-01 10341	894839232	Kwon	Myungjung
+Turnitin Assignment	Summer 2017 CRJU 340-01 10343	892779307	Spiropoulos	Georgia
+Turnitin Assignment	Summer 2017 CRJU 345-01 10344	892779307	Spiropoulos	Georgia
+Turnitin Assignment	Summer 2017 CRJU 385-01 10345	899957302	Brown	Gregory
+Turnitin Assignment	Summer 2017 CRJU 455-01 10346	899957302	Brown	Gregory
+Turnitin Assignment	Summer 2017 CRJU 455-20 11575	899957302	Brown	Gregory
+Turnitin Assignment	Summer 2017 ECON 201-01 10212	890290646	Huntington-Klein	Nick
+Turnitin Assignment	Summer 2017 ECON 201-02 10263	890290646	Huntington-Klein	Nick
+Turnitin Assignment	Summer 2017 EDAD 523-45 10727	890274624	Gutierrez Keeton	Rebecca
+Turnitin Assignment	Summer 2017 EDAD 524-44 10724	894834993	Moss	Yvette
+Turnitin Assignment	Summer 2017 EDAD 524-45 10725	894834993	Moss	Yvette
+Turnitin Assignment	Summer 2017 EDD 670C-03 10165	891519662	Zarate	Maria Estela
+Turnitin Assignment	Summer 2017 EDD 670F-03 10157	891519662	Zarate	Maria Estela
+Turnitin Assignment	Summer 2017 ENGL 301-50 11000	892838897	Brannon	April
+Turnitin Assignment	Summer 2017 ENGL 301-55 11009	891535809	Williams	Bonnie
+Turnitin Assignment	Summer 2017 ENGL 301-56 11010	891535809	Williams	Bonnie
+Turnitin Assignment	Summer 2017 ENST 595T-50 10778	892104654	Mishra	Phoolendra
+Turnitin Assignment	Summer 2017 ENST 595T-51 10779	890917776	Kurwadkar	Sudarshan
+Turnitin Assignment	Summer 2017 ESE 100-02 11181	899937114	Sawicki	Sherri
+Turnitin Assignment	Summer 2017 ESE 100-06 11185	802658807	Tavasolian	Amber
+Turnitin Assignment	Summer 2017 ESE 80-66 11134	800810459	Mackie	Carole
+Turnitin Assignment	Summer 2017 ESE 99-02 11143	800088791	Middleton	Donna
+Turnitin Assignment	Summer 2017 ESE 99-03 11144	800072134	Wilcox	Tom
+Turnitin Assignment	Summer 2017 ESE 99-13 11154	800088791	Middleton	Donna
+Turnitin Assignment	Summer 2017 ESE 99-17 11158	800072134	Wilcox	Tom
+Turnitin Assignment	Summer 2017 FIN 360-01 10237	802796078	Xie	Xiaoying
+Turnitin Assignment	Summer 2017 FIN 370-50 10240	899990543	Greco	Joe
+Turnitin Assignment	Summer 2017 FIN 370-51 10241	899990543	Greco	Joe
+Turnitin Assignment	Summer 2017 GEOG 110-50 11044	800064149	Salim	Zia
+Turnitin Assignment	Summer 2017 GEOG 353-50 10676	899983209	Taylor	Jonathan
+Turnitin Assignment	Summer 2017 HCOM 308-01 10501	889646956	Suwinyattichaiporn	Tara
+Turnitin Assignment	Summer 2017 HESC 115-01 10270	899417208	Kim	Danny
+Turnitin Assignment	Summer 2017 HESC 349-50 10273	890284011	Charles	Shana
+Turnitin Assignment	Summer 2017 HESC 411-50 10284	892109257	Espinoza	Lilia
+Turnitin Assignment	Summer 2017 HESC 415-01 10277	899417208	Kim	Danny
+Turnitin Assignment	Summer 2017 HESC 515-50 10281	893762195	Breskey	John
+Turnitin Assignment	Summer 2017 HIST 110A-02 10435	899861389	Mikhail	Maged
+Turnitin Assignment	Summer 2017 HIST 110A-50 10436	899999551	Brunelle	Gayle
+Turnitin Assignment	Summer 2017 HIST 110A-51 10445	899902621	Fitch	Nancy
+Turnitin Assignment	Summer 2017 HIST 110B-01 10446	892410945	Tran	Lisa
+Turnitin Assignment	Summer 2017 HIST 110B-50 10437	893767509	Burlingham	Kate
+Turnitin Assignment	Summer 2017 HIST 110B-52 10439	899845465	Mclain	Robert
+Turnitin Assignment	Summer 2017 HIST 110B-53 10447	892410945	Tran	Lisa
+Turnitin Assignment	Summer 2017 HIST 180-50 10449	802795971	Janssen	Volker
+Turnitin Assignment	Summer 2017 HIST 300A-01 10450	899987911	Burgtorf	Jochen
+Turnitin Assignment	Summer 2017 HIST 320-90 10496	802795971	Janssen	Volker
+Turnitin Assignment	Summer 2017 HIST 395-01 10442	894859610	Neufeld	Stephen
+Turnitin Assignment	Summer 2017 HIST 417A-01 10443	899926158	Chrissanthos	Stefan
+Turnitin Assignment	Summer 2017 HIST 420-01 10451	899987911	Burgtorf	Jochen
+Turnitin Assignment	Summer 2017 IDT 535-50 11236	896945490	Gautreau	Cynthia
+Turnitin Assignment	Summer 2017 IDT 535-51 11237	899864433	Glaeser	Barbara
+Turnitin Assignment	Summer 2017 KNES 381-90 10539	894324151	Llewellyn	Matthew
+Turnitin Assignment	Summer 2017 KNES 481-90 10542	893765933	Gleaves	John
+Turnitin Assignment	Summer 2017 LBST 100-50 10615	899867352	Bullock	April
+Turnitin Assignment	Summer 2017 LBST 401-01 10622	899867352	Bullock	April
+Turnitin Assignment	Summer 2017 MGMT 340-01 10915	806223673	Muse	Lori
+Turnitin Assignment	Summer 2017 MGMT 340-85 10949	803628858	Beenen	Gerard
+Turnitin Assignment	Summer 2017 MGMT 343-01 10929	806223673	Muse	Lori
+Turnitin Assignment	Summer 2017 MGMT 518-70 11226	899967418	Parry	Richard
+Turnitin Assignment	Summer 2017 MSW 530-70 11229	892774043	Hogan	Sean
+Turnitin Assignment	Summer 2017 NURS 305-70 11272	889620308	Tyler	Diana
+Turnitin Assignment	Summer 2017 NURS 305-71 11273	801028374	Wallace	Katrina
+Turnitin Assignment	Summer 2017 NURS 305-72 11274	899334692	Slater	Nita
+Turnitin Assignment	Summer 2017 NURS 305-73 11405	898947635	Bayhan	Kate
+Turnitin Assignment	Summer 2017 NURS 345-50 11411	899002075	Jung	Deanna
+Turnitin Assignment	Summer 2017 NURS 407L-03 11429	803084318	Hernandez	Irma
+Turnitin Assignment	Summer 2017 NURS 452-50 11437	899309868	Cleveland	Leah
+Turnitin Assignment	Summer 2017 NURS 470A-01 11438	899255236	Orr	Marsha
+Turnitin Assignment	Summer 2017 NURS 470A-50 11439	805871944	Grauvogl	Cynthia
+Turnitin Assignment	Summer 2017 NURS 505B-50 11443	892734047	Mcclanahan	Rachel
+Turnitin Assignment	Summer 2017 NURS 505B-51 11444	894859263	Bodan	Rebecca
+Turnitin Assignment	Summer 2017 NURS 518-50 11447	894844331	O'Brien	Roxanne
+Turnitin Assignment	Summer 2017 POSC 100-01 10349	899994826	Spitzer	Scott
+Turnitin Assignment	Summer 2017 POSC 100-50 10348	899333140	Tucker	Justin
+Turnitin Assignment	Summer 2017 POSC 100-51 10362	890316243	Robinson	Robert
+Turnitin Assignment	Summer 2017 POSC 100-52 11593	890525470	Doucette	Meriem
+Turnitin Assignment	Summer 2017 POSC 300-01 10420	892840034	Hill	Sarah A
+Turnitin Assignment	Summer 2017 POSC 300-02 10364	892786872	Jarvis	Matthew
+Turnitin Assignment	Summer 2017 POSC 320-01 10342	894839232	Kwon	Myungjung
+Turnitin Assignment	Summer 2017 PSYC 110-01 10578	892149915	Louis	Ashleigh
+Turnitin Assignment	Summer 2017 PSYC 202-01 10601	892086877	Wagoner	Joseph
+Turnitin Assignment	Summer 2017 PSYC 304-01 10557	892777905	Peissig	Jessie
+Turnitin Assignment	Summer 2017 PSYC 304L-01 10558	892777905	Peissig	Jessie
+Turnitin Assignment	Summer 2017 PSYC 305-50 10559	892384421	Gerkens	David
+Turnitin Assignment	Summer 2017 PSYC 305L-50 10560	892384421	Gerkens	David
+Turnitin Assignment	Summer 2017 PSYC 341-50 10565	892777921	Scher	Christine
+Turnitin Assignment	Summer 2017 PSYC 362-01 10569	802758284	Zettel-Watson	Laura
+Turnitin Assignment	Summer 2017 RLST 110-50 11385	892778069	Ibrahim	Zakyi
+Turnitin Assignment	Summer 2017 RLST 352-50 11386	899959357	Solano	Jeanette
+Turnitin Assignment	Summer 2017 SALP 6015-01 10200	896316684	Maruri	Gabriela
+Turnitin Assignment	Summer 2017 SALP 6015-02 10201	891511693	Pak	Jackie
+Turnitin Assignment	Summer 2017 SALP 7015-01 10205	893789529	Herbst	Mark
+Turnitin Assignment	Summer 2017 SALP 8015-01 10210	806228466	Marshall	John
+Turnitin Assignment	Summer 2017 SOCI 341-50 10712	893802595	Abdel Haq	Mohammad
+Turnitin Assignment	Summer 2017 SOCI 356-50 10715	891542797	Alvarez	Anthony
+Turnitin Assignment	Summer 2017 SOCI 410-50 10718	899870489	Perez	Michael
+Turnitin Assignment	Summer 2017 SOCI 411-50 10719	891542987	Thacker Thomas	Devon
+Turnitin Assignment	Summer 2017 SOCI 411-70 11279	891542987	Thacker Thomas	Devon
+Turnitin Assignment	Summer 2017 SPED 400-50 10690	805986973	Myck-Wayne	Janice
+Turnitin Assignment	Summer 2017 TESL 301-01 10644	889604013	Rueckert	Daniel
+Turnitin Assignment	Summer 2017 TESL 301-02 10645	805770245	Schumaker	Denise
+Turnitin Assignment	Summer 2017 WGST 205-50 10624	892248246	Dolhinow	Rebecca
+Turnitin Assignment	Thoa Wallace Sandbox	801028374	Wallace	Katrina
+Turnitin Assignment	Fall 2017 ENGL 101-02 15564	800088791	Middleton	Donna
+Turnitin Assignment	Fall 2017 ENGL 101-42 15588	800712739	Shahisaman	Mohammad
+Turnitin Assignment	Fall 2017 ENGL 101-45 17365	800712739	Shahisaman	Mohammad
+Turnitin Assignment	Fall 2017 ENGL 101-50 16527	892525619	Greer	Michelle
+Turnitin Assignment	Fall 2017 ENGL 101-62 17368	893739326	Goldman	Shannon
+Turnitin Assignment	Fall 2017 HESC 440-06 21549	890035264	Dust	Mark
+Turnitin Assignment	Fall 2017 POSC 519-01 21541	892840034	Hill	Sarah A
+Turnitin Assignment	Summer 2017 HIST 180-51 11673	890300791	Moore Pewu	Jamila
+Turnitin Assignment	Summer 2017 AMST 300-51 11377	893741421	Suarez	Elizabeth P.
+Turnitin Assignment	Fall 2017 CRJU 330-06 21580	888916855	Maziarka	Kristen
+Turnitin Assignment	Fall 2017 POSC 446-02 21601	890525470	Doucette	Meriem
+Turnitin Assignment	Maritza Lozano Sandbox	888932837	Lozano	Maritza
+Turnitin Assignment	Summer 2017 NURS 452-01 11436	894337807	Metoyer	Carol
+Turnitin Assignment	Fall 2017 CHEM 315-04 21706	890291388	Fry	Allyson
+Turnitin Assignment	Fall 2017 HIST 489T-01 21710	892840695	Stern	Jessica
+Turnitin Assignment	Summer 2017 SOCI 410-51 11721	899870489	Perez	Michael
+Turnitin Assignment	Summer 2017 NURS 402-01 11413	892407404	Matza	Maria
+Turnitin Assignment	Summer 2017 NURS 420-03 11724	800059487	Dixit	Shivi
+Turnitin Assignment	Summer 2017 ANTH 101-21 11732	899997985	Bock	John
+Turnitin Assignment	Summer 2017 ENGL 101-71 11342	800395105	Medrano	April
+Turnitin Assignment	Fall 2017 BUAD 301-66 21763	800810459	Mackie	Carole
+Turnitin Assignment	Fall 2017 BUAD 301-67 21764	889605770	Rodriguez	Eric
+Turnitin Assignment	Fall 2017 IDT 510-52 21769	899864433	Glaeser	Barbara
+Turnitin Assignment	Summer 2017 ESE 99-20 11161	800712739	Shahisaman	Mohammad
+Turnitin Assignment	Fall 2017 CPSC 313-78 21871	805687928	Hariri	Sara
+Turnitin Assignment	Fall 2017 CPSC 313-79 21872	894340256	Radfar	Pouya
+Turnitin Assignment	Summer 2017 ESE 99-08 11149	800712739	Shahisaman	Mohammad
+Turnitin Assignment	Fall 2017 AMST 442-02 21537	800204554	Falero	Sandra
+Turnitin Assignment	Summer 2017 ESE 99-24 11165	899937114	Sawicki	Sherri
+Turnitin Assignment	Summer 2017 ESE 100-03 11182	802658807	Tavasolian	Amber
+Turnitin Assignment	Fall 2017 NURS 305-52 21933	889620308	Tyler	Diana
+Turnitin Assignment	Fall 2017 NURS 470A-03 21932	899255236	Orr	Marsha
+Turnitin Assignment	Summer 2017 ESE 99-22 11163	894210137	Mercado	Monica
+Turnitin Assignment	Fall 2017 ANTH 100-50 16715	892427857	Bowser	Brenda
+Turnitin Assignment	Fall 2017 BUAD 301-86 21977 (Irvine)	889604674	Nguyen	Amy
+Turnitin Assignment	Fall 2017 EGCE 428L-04 21983	893152553	Alasoosy	Fawaz
+Turnitin Assignment	Fall 2017 EGCE 551-01 21982	890913577	Sharma	Deepak
+Turnitin Assignment	Fall 2017 CRJU 406-01 22017	888917200	Yang	Fei
+Turnitin Assignment	Fall 2017 ENGL 101-94 22040	800072134	Wilcox	Tom
+Turnitin Assignment	Fall 2017 PHIL 320-06 16940	894324177	Sher	Shlomo
+Turnitin Assignment	Fall 2017 ENGL 101-95 22072	800395105	Medrano	April
+Turnitin Assignment	Fall 2017 ENGL 301-31 19956	899937114	Sawicki	Sherri
+Turnitin Assignment	Fall 2017 HCOM 102-28 22090	888914447	Moscozo	Raquel
+Turnitin Assignment	Fall 2017 HUSR 385 Combined	892102807	Tsong	Yuying
+Turnitin Assignment	Fall 2017 EDSC 320-54 22139	802118216	Barnhart	Tara
+Turnitin Assignment	Fall 2017 HIST 180-52 22145	890300791	Moore Pewu	Jamila
+Turnitin Assignment	Wenlin Han Sandbox	888939261	Han	Wenlin
+Turnitin Assignment	Nora Castro Sandbox	892044900	Castro	Nora
+Turnitin Assignment	Fall 2017 ASAM 101-01 Intro to Ethnic Studies	800311474	Leano	Ryan
+Turnitin Assignment	Fall 2017 ASAM 101-02 Intro to Ethnic Studies	800311474	Leano	Ryan
+Turnitin Assignment	Fall 2017 ASAM 101-03 Intro to Ethnic Studies	800311474	Leano	Ryan
+Turnitin Assignment	Fall 2017 ASAM 308-50 Asian American Women	800311474	Leano	Ryan
+Turnitin Assignment	Fall 2017 CAS 300-01 14099	890901226	George	Sarah
+Turnitin Assignment	Fall 2017 HESC KNES 342 Fazio	801424300	Fazio	Karen
+Turnitin Assignment	Fall 2017 HIST 110A-31 22173	890900186	Macmillan	Kurt
+Turnitin Assignment	Joy Taylor Sandbox	800482812	Taylor	Joy
+Turnitin Assignment	Fall 2017 TESL 99-02 22180	805770245	Schumaker	Denise
+Turnitin Assignment	Fall 2017 TESL 99-04 22182	897934543	Mercer	Nicole
+Turnitin Assignment	Fall 2017 BIOL 151 Villeneuve	893820969	Villeneuve	Louisa
+Turnitin Assignment	Fall 2017 NURS 345-50 20428	890906076	Taha	Asma
+Turnitin Assignment	Fall 2017 NURS 411L-01 14813	888906328	Barnhill	Barry
+Turnitin Assignment	Fall 2017 COUN 524-71 22224	892248238	Nguyen	Thuy
+Turnitin Assignment	Fall 2017 CPSC 542-59 22223	805687928	Hariri	Sara
+Turnitin Assignment	Fall 2017 ENGL 101-96 22220	800088791	Middleton	Donna
+Turnitin Assignment	Fall 2017 ENGL 101-97 22221	800088791	Middleton	Donna
+Turnitin Assignment	Lesli Maul Sandbox	800373458	Maul	Lesli
+Turnitin Assignment	Fall 2017 POSC 375	899863583	Fiber	Pamela
+Turnitin Assignment	Fall 2017 SOCI 308 01-02 Combined	802289801	Itagaki	Michael
+Turnitin Assignment	Fall 2017 EGEE 401-04 22236	890270473	Garner	James
+Turnitin Assignment	Fall 2017 BIOL 151-Lecture	806214946	Miyamoto	Alison
+Custom Grading Plug-in	Fall 2017 CPSC 121-13 13677	892794173	Anderson	Natalia
+Course Attendance Report	Fall 2017 ACCT 308-02 11905	803998715	Gershenovitz	Barry
+Course Attendance Report	Fall 2017 ACCT 308-06 12374	803998715	Gershenovitz	Barry
+Course Attendance Report	Fall 2017 ACCT 510-01 11702	805054186	Huebner	Dick
+Course Attendance Report	Fall 2017 ACCT 578-01 12351	890280167	Encarnacion	Mayra
+Course Attendance Report	Fall 2017 AMST 201-12 16864	892416868	Lewinnek	Elaine
+Course Attendance Report	Fall 2017 AMST 301-14 20747	801973389	Covert-Ortiz	Patrick
+Course Attendance Report	Fall 2017 ANTH 316-01 16700	894837079	Pillsworth	Elizabeth
+Course Attendance Report	Fall 2017 ANTH 316-02 17555	894837079	Pillsworth	Elizabeth
+Course Attendance Report	Fall 2017 ANTH 442-01 20224	894837079	Pillsworth	Elizabeth
+Course Attendance Report	Fall 2017 ARAB 101-01 16568	889605754	O'Brien	Clare
+Course Attendance Report	Fall 2017 ART 101-02 10009	801025289	Nguyen	Janice
+Course Attendance Report	Fall 2017 ART 101-03 10010	897390282	Hoffman	Laura
+Course Attendance Report	Fall 2017 ART 101-05 10527	801025289	Nguyen	Janice
+Course Attendance Report	Fall 2017 ART 101-06 10528	800096885	Potts	Gretchen
+Course Attendance Report	Fall 2017 ART 101-09 11303	801025289	Nguyen	Janice
+Course Attendance Report	Fall 2017 ART 104-03 10016	800096885	Potts	Gretchen
+Course Attendance Report	Fall 2017 ART 201A-01 10529	800096885	Potts	Gretchen
+Course Attendance Report	Fall 2017 ART 380-04 10056	889591111	Sargeant	Amy
+Course Attendance Report	Fall 2017 ART 380-07 10057	889591111	Sargeant	Amy
+Course Attendance Report	Fall 2017 ART 380-09 10058	889591111	Sargeant	Amy
+Course Attendance Report	Fall 2017 ART 480T-01 10063	892053091	Fedak	Andrew
+Course Attendance Report	Fall 2017 ART 483F-02 11549	899953038	Lizarraga	Sergio
+Course Attendance Report	Fall 2017 ART 483F-04 11560	899953038	Lizarraga	Sergio
+Course Attendance Report	Fall 2017 BIOL 101-19 18614	890942899	Molinder	Kenna
+Course Attendance Report	Fall 2017 BUAD 300-08 12263	892847518	Curran	Laura
+Course Attendance Report	Fall 2017 BUAD 300-12 12266	890932171	Noble	Kasey
+Course Attendance Report	Fall 2017 BUAD 300-80 19825	899973911	Daughetee	Marsha
+Course Attendance Report	Fall 2017 BUAD 301-40 12247	805659471	Sentz	Katharine
+Course Attendance Report	Fall 2017 BUAD 301-61 12387	805659471	Sentz	Katharine
+Course Attendance Report	Fall 2017 BUAD 301-62 12388	805659471	Sentz	Katharine
+Course Attendance Report	Fall 2017 CAS 201-02 15168	890916497	Pineda	Claudia
+Course Attendance Report	Fall 2017 CAS 301-01 14106	896223435	Stout	Debra
+Course Attendance Report	Fall 2017 CAS 301-05 14108	896223435	Stout	Debra
+Course Attendance Report	Fall 2017 CAS 325B-05 15336	899890040	Essman	Melissa
+Course Attendance Report	Fall 2017 CAS 340-85 14125	899890040	Essman	Melissa
+Course Attendance Report	Fall 2017 CAS 380-01 15075	892779539	Kim	Janna
+Course Attendance Report	Fall 2017 CAS 394-03 20249	899889463	Robles	Diana
+Course Attendance Report	Fall 2017 COMD 344-02 21193	892214511	Monarrez	Martin
+Course Attendance Report	Fall 2017 COMD 475-01 21206	899984686	Tsao	Ying-Chiao
+Course Attendance Report	Fall 2017 COMM 101-10 12839		Metzger	Cerise
+Course Attendance Report	Fall 2017 COMM 101-12 12841		Metzger	Cerise
+Course Attendance Report	Fall 2017 COMM 300-01 12878	899964290	Mcalexander	Micheal
+Course Attendance Report	Fall 2017 COMM 301-02 12705	899972491	Blair	Erik
+Course Attendance Report	Fall 2017 COMM 346-03 12828	899972491	Blair	Erik
+Course Attendance Report	Fall 2017 COMM 446-02 12771	892115502	Collison	Jim
+Course Attendance Report	Fall 2017 COMM 448T-02 13004	892115502	Collison	Jim
+Course Attendance Report	Fall 2017 COMM 462-01 13002	800134611	Hagihara	Kenneth
+Course Attendance Report	Fall 2017 COMM 464-01 12937	899959464	Witmer	Diane
+Course Attendance Report	Fall 2017 COMM 464-03 12939	800134611	Hagihara	Kenneth
+Course Attendance Report	Fall 2017 COMM 474-81 12936	800134611	Hagihara	Kenneth
+Course Attendance Report	Fall 2017 COMM 497T-01 12437	899872725	Schwenk	Greg
+Course Attendance Report	Fall 2017 COUN 511-01 14173	805694825	Gottlieb	Michelle
+Course Attendance Report	Fall 2017 COUN 562-01 14181	805694825	Gottlieb	Michelle
+Course Attendance Report	Fall 2017 CPLT 324-01 16605	899323992	Kelman	David
+Course Attendance Report	Fall 2017 CPSC 121-13 13677	892794173	Anderson	Natalia
+Course Attendance Report	Fall 2017 CPSC 121-15 13686	891498719	Mccarthy	William
+Course Attendance Report	Fall 2017 CPSC 121-16 13687	891498719	Mccarthy	William
+Course Attendance Report	Fall 2017 CPSC 223J-01 13309	888932589	Inventado	Paul Salvador
+Course Attendance Report	Fall 2017 CPSC 301-03 20815	891498719	Mccarthy	William
+Course Attendance Report	Fall 2017 CPSC 332-01 13139	888939261	Han	Wenlin
+Course Attendance Report	Fall 2017 CPSC 332-02 13301	888939261	Han	Wenlin
+Course Attendance Report	Fall 2017 CPSC 351-01 13140	891498719	Mccarthy	William
+Course Attendance Report	Fall 2017 CPSC 351-02 13349	891498719	Mccarthy	William
+Course Attendance Report	Fall 2017 CPSC 411-01 13448	891498719	Mccarthy	William
+Course Attendance Report	Fall 2017 CPSC 440-03 13471	899996813	Kung	Kenneth
+Course Attendance Report	Fall 2017 CPSC 463-01 13400	894170380	Ehteshami	Yasamin
+Course Attendance Report	Fall 2017 CPSC 481-01 13141	888939261	Han	Wenlin
+Course Attendance Report	Fall 2017 CPSC 486-02 21449	892844432	Shafae	Michael
+Course Attendance Report	Fall 2017 CPSC 558-01 13453	899899207	Marcinkevicz	Mike
+Course Attendance Report	Fall 2017 CPSC 589-01 13331	899996813	Kung	Kenneth
+Course Attendance Report	Fall 2017 CRJU 100-01 17424	800490047	Miller	Monishia
+Course Attendance Report	Fall 2017 CRJU 100-02 21028	800490047	Miller	Monishia
+Course Attendance Report	Fall 2017 CRJU 100-03 17129	802415802	Champion	Christine
+Course Attendance Report	Fall 2017 CRJU 300-04 20720	800730269	Jaime	David
+Course Attendance Report	Fall 2017 CRJU 300-80 17397	800730269	Jaime	David
+Course Attendance Report	Fall 2017 CRJU 325-01 17485	800490047	Miller	Monishia
+Course Attendance Report	Fall 2017 CRJU 325-02 21041	800730269	Jaime	David
+Course Attendance Report	Fall 2017 CRJU 340-10 21455	890946239	Miller	Trisha
+Course Attendance Report	Fall 2017 CRJU 345-04 20726	802415802	Champion	Christine
+Course Attendance Report	Fall 2017 CTVA 300-01 12652	891488249	Yong	Mun
+Course Attendance Report	Fall 2017 CTVA 325-02 12808	891488249	Yong	Mun
+Course Attendance Report	Fall 2017 CTVA 341-01 13026	893819656	Hart	Garrett
+Course Attendance Report	Fall 2017 CTVA 480-01 12912	889646196	Wilk	Lawrence
+Course Attendance Report	Fall 2017 ECON 315-04 12006	899967640	Rahmatian	Morteza
+Course Attendance Report	Fall 2017 ECON 315-81 21393	899985105	Duella	Abdunasser
+Course Attendance Report	Fall 2017 ECON 320-03 11907	890290653	Casanova	Maria
+Course Attendance Report	Fall 2017 ECON 320-12 21367	890290653	Casanova	Maria
+Course Attendance Report	Fall 2017 ECON 335-01 12228	899985105	Duella	Abdunasser
+Course Attendance Report	Fall 2017 ECON 335-13 21370	899985105	Duella	Abdunasser
+Course Attendance Report	Fall 2017 ECON 418-01 21365	890290646	Huntington-Klein	Nick
+Course Attendance Report	Fall 2017 EDEL 315-01 14050	899997738	Finnell	Barbara
+Course Attendance Report	Fall 2017 EDEL 315-05 13741	805979705	Lengyel-Leahu	Kristia
+Course Attendance Report	Fall 2017 EDEL 430-04 13755	899918213	Quinn	Kristine
+Course Attendance Report	Fall 2017 EGCE 201-04 13698	892104654	Mishra	Phoolendra
+Course Attendance Report	Fall 2017 EGCE 428-01 13249	892104654	Mishra	Phoolendra
+Course Attendance Report	Fall 2017 EGCE 435-01 13173	892104654	Mishra	Phoolendra
+Course Attendance Report	Fall 2017 EGCE 441-02 13526	890917776	Kurwadkar	Sudarshan
+Course Attendance Report	Fall 2017 EGCE 482-01 13292	890917776	Kurwadkar	Sudarshan
+Course Attendance Report	Fall 2017 EGCE 597-51 13223	890917776	Kurwadkar	Sudarshan
+Course Attendance Report	Fall 2017 EGEE 401-01 13707	890270473	Garner	James
+Course Attendance Report	Fall 2017 EGME 102-01 13368	803116318	Bang	Christopher
+Course Attendance Report	Fall 2017 EGME 308-01 13354	803116318	Bang	Christopher
+Course Attendance Report	Fall 2017 EGME 308-04 13711	803116318	Bang	Christopher
+Course Attendance Report	Fall 2017 EGME 322L-01 13381	805806635	Parker	Andrew
+Course Attendance Report	Fall 2017 EGME 331-01 13449	889615969	Park	Yong Seok
+Course Attendance Report	Fall 2017 EGME 333-06 13640	889615852	Banks	Darren
+Course Attendance Report	Fall 2017 EGME 476A-01 13557	890251358	Zhang	Bing
+Course Attendance Report	Fall 2017 EGME 476A-03 13559	890251358	Zhang	Bing
+Course Attendance Report	Fall 2017 EGME 476A-07 13563	890251358	Zhang	Bing
+Course Attendance Report	Fall 2017 EGME 476A-15 13627	890251358	Zhang	Bing
+Course Attendance Report	Fall 2017 EGME 476A-17 20825	894800838	Overtoom	Scott
+Course Attendance Report	Fall 2017 ENGL 101-59 16549	899922694	Pollitt	Gary
+Course Attendance Report	Fall 2017 ENGL 101-72 16633	899922694	Pollitt	Gary
+Course Attendance Report	Fall 2017 ENGL 365-01 17217	893754572	Kelman	Sarah
+Course Attendance Report	Fall 2017 ENGL 463-01 20063	899323992	Kelman	David
+Course Attendance Report	Fall 2017 FIN 335-01 11918	805054186	Huebner	Dick
+Course Attendance Report	Fall 2017 FIN 335-02 12001	805054186	Huebner	Dick
+Course Attendance Report	Fall 2017 FIN 495-01 11752	805054186	Huebner	Dick
+Course Attendance Report	Fall 2017 GEOL 101-04 17766	802124263	Bonuso	Nicole
+Course Attendance Report	Fall 2017 HCOM 100-15 12470	889559712	Suarez	Samantha
+Course Attendance Report	Fall 2017 HCOM 100-28 12707	897734240	Arroyo	James
+Course Attendance Report	Fall 2017 HCOM 100-35 13092	898200811	Bugrov	Maksim
+Course Attendance Report	Fall 2017 HCOM 100-73 13096	897734240	Arroyo	James
+Course Attendance Report	Fall 2017 HCOM 102-11 12863	898200811	Bugrov	Maksim
+Course Attendance Report	Fall 2017 HCOM 102-12 12495	898200811	Bugrov	Maksim
+Course Attendance Report	Fall 2017 HCOM 102-26 12855	898200811	Bugrov	Maksim
+Course Attendance Report	Fall 2017 HCOM 432-01 20845	894338391	Thomas	Erika
+Course Attendance Report	Fall 2017 HESC 101-01 14191	891551616	Pineda	John
+Course Attendance Report	Fall 2017 HESC 115-01 15269	899417208	Kim	Danny
+Course Attendance Report	Fall 2017 HESC 400-05 14806	894321991	Buch	Amy
+Course Attendance Report	Fall 2017 HESC 415-01 14957	888929163	Gedalanga	Phillip
+Course Attendance Report	Fall 2017 HESC 416-01 20265	899417208	Kim	Danny
+Course Attendance Report	Fall 2017 HESC 440-01 14203	890035264	Dust	Mark
+Course Attendance Report	Fall 2017 HESC 440-03 14924	890035264	Dust	Mark
+Course Attendance Report	Fall 2017 HESC 460-01 14204	892779372	Roberts	Rachel
+Course Attendance Report	Fall 2017 HESC 462-01 15366	899417208	Kim	Danny
+Course Attendance Report	Fall 2017 HIST 473C-01 20007	802795971	Janssen	Volker
+Course Attendance Report	Fall 2017 HONR 101A-44 19552	806222121	Tobias	Saul
+Course Attendance Report	Fall 2017 HUSR 385-04 14766	896917929	Foy	Tami
+Course Attendance Report	Fall 2017 HUSR 396-03 14758	892102807	Tsong	Yuying
+Course Attendance Report	Fall 2017 HUSR 425T-03 15214	899975130	Trevino	Candace
+Course Attendance Report	Fall 2017 ISDS 402-03 12379	889234209	Williams	Kevin
+Course Attendance Report	Fall 2017 KNES 150-01 21153	892932310	Arreola	Richard
+Course Attendance Report	Fall 2017 KNES 202-03 14373	803094622	Cappelli	Julia
+Course Attendance Report	Fall 2017 KNES 210-81 14968	899551667	York	Robyn
+Course Attendance Report	Fall 2017 KNES 325-01 15108	803094622	Cappelli	Julia
+Course Attendance Report	Fall 2017 KNES 349-80 14965	893737361	Eyanson	Jeffrey
+Course Attendance Report	Fall 2017 KNES 360-04 14937	898255757	Lynn	Scott
+Course Attendance Report	Fall 2017 KNES 360-80 14966	899551667	York	Robyn
+Course Attendance Report	Fall 2017 KNES 361-05 15196	899551667	York	Robyn
+Course Attendance Report	Fall 2017 KNES 361-80 15087	899551667	York	Robyn
+Course Attendance Report	Fall 2017 KNES 364-01 15162	889625117	Lee	Do Kyeong
+Course Attendance Report	Fall 2017 KNES 365-03 14832	890309859	Montgomery	Melissa
+Course Attendance Report	Fall 2017 KNES 373-01 15163	890309859	Montgomery	Melissa
+Course Attendance Report	Fall 2017 KNES 432-01 14771	894320670	Wilson	Kathleen
+Course Attendance Report	Fall 2017 KNES 453-01 14941	800914319	Rounds	Julie
+Course Attendance Report	Fall 2017 LBST 101-01 16276	806222121	Tobias	Saul
+Course Attendance Report	Fall 2017 LBST 101-02 16761	806222121	Tobias	Saul
+Course Attendance Report	Fall 2017 LBST 482-01 16845	806222121	Tobias	Saul
+Course Attendance Report	Fall 2017 MATH 115-85 18541	802438754	Le	Sunny
+Course Attendance Report	Fall 2017 MATH 120-85 19188	802438754	Le	Sunny
+Course Attendance Report	Fall 2017 MATH 270A-01 17929	800409450	Hall	Nathaniel
+Course Attendance Report	Fall 2017 MATH 270A-02 17928	800409450	Hall	Nathaniel
+Course Attendance Report	Fall 2017 MATH 270A-03 18727	800409450	Hall	Nathaniel
+Course Attendance Report	Fall 2017 MATH 270B-03 18910	800409450	Hall	Nathaniel
+Course Attendance Report	Fall 2017 MATH 30B-04 19289	890884661	Moya	Randall
+Course Attendance Report	Fall 2017 MATH 338-20 18912	895261188	Pineda	Edward
+Course Attendance Report	Fall 2017 MATH 338-23 19084	895261188	Pineda	Edward
+Course Attendance Report	Fall 2017 MATH 338-85 19413	802438754	Le	Sunny
+Course Attendance Report	Fall 2017 MGMT 339-01 11785	889630687	Choi	Min
+Course Attendance Report	Fall 2017 MGMT 339-04 11788	889630687	Choi	Min
+Course Attendance Report	Fall 2017 MGMT 339-07 11875	892838855	Gnanlet	Adelina
+Course Attendance Report	Fall 2017 MGMT 343-04 12280	894858067	Pichler	Shaun
+Course Attendance Report	Fall 2017 MGMT 346-01 20753	889648606	Nguyen	Mark
+Course Attendance Report	Fall 2017 MGMT 350-02 12276	889648606	Nguyen	Mark
+Course Attendance Report	Fall 2017 MGMT 435-01 11893	892838855	Gnanlet	Adelina
+Course Attendance Report	Fall 2017 MGMT 444-02 11970	893759969	Frierson	Andrae
+Course Attendance Report	Fall 2017 MGMT 449-10 11868	889646196	Wilk	Lawrence
+Course Attendance Report	Fall 2017 MSW 501-70 21298	897973897	Saxton	Debra
+Course Attendance Report	Fall 2017 MSW 510-02 15179	897973897	Saxton	Debra
+Course Attendance Report	Fall 2017 MSW 520-03 15231	804578797	Martin	Michelle
+Course Attendance Report	Fall 2017 MSW 523-02 15320	804578797	Martin	Michelle
+Course Attendance Report	Fall 2017 MSW 542-04 15043	897973897	Saxton	Debra
+Course Attendance Report	Fall 2017 MUS 101-01 10522	898149828	Munger	Geoffrey
+Course Attendance Report	Fall 2017 MUS 121-03 11477	899977482	Siebenaler	Dennis
+Course Attendance Report	Fall 2017 MUS 281B-01 10152	899696215	Mahpar	Steven
+Course Attendance Report	Fall 2017 MUS 302-01 10155	899968739	Tumlinson	Charles
+Course Attendance Report	Fall 2017 MUS 302-02 11483	899968739	Tumlinson	Charles
+Course Attendance Report	Fall 2017 NURS 514-50 14833	890945835	Snyder	Phyllis
+Course Attendance Report	Fall 2017 NURS 514-51 15344	890945835	Snyder	Phyllis
+Course Attendance Report	Fall 2017 PHIL 100-01 16330	890900194	Cross	Elliot
+Course Attendance Report	Fall 2017 PHIL 100-06 16508	893768192	Heiner	Brady
+Course Attendance Report	Fall 2017 PHIL 100-07 16822	890900194	Cross	Elliot
+Course Attendance Report	Fall 2017 PHIL 101-03 16823	890900194	Cross	Elliot
+Course Attendance Report	Fall 2017 PHIL 106-06 16509	893759399	Howat	Andrew
+Course Attendance Report	Fall 2017 PHIL 106-08 16824	893759399	Howat	Andrew
+Course Attendance Report	Fall 2017 PHIL 120-02 19926	890900194	Cross	Elliot
+Course Attendance Report	Fall 2017 PHIL 315-02 16826	893759399	Howat	Andrew
+Course Attendance Report	Fall 2017 PHYS 211-06 18630	893726695	Lockett-Ruiz	Veronica
+Course Attendance Report	Fall 2017 PHYS 212-02 17966	893726695	Lockett-Ruiz	Veronica
+Course Attendance Report	Fall 2017 POSC 100-10 16718	890946239	Miller	Trisha
+Course Attendance Report	Fall 2017 POSC 320-05 17058	800190043	Castro	Antonia
+Course Attendance Report	Fall 2017 POSC 321-02 20731	890936842	Xiao	Yan
+Course Attendance Report	Fall 2017 POSC 407-02 17200	890946239	Miller	Trisha
+Course Attendance Report	Fall 2017 PSYC 302L-04 15889	899859656	Morales	Thomas
+Course Attendance Report	Fall 2017 PSYC 351-05 17248	892365628	Williams	Keikilani
+Course Attendance Report	Fall 2017 PSYC 351-80 20202	892365628	Williams	Keikilani
+Course Attendance Report	Fall 2017 READ 201-02 13990	889581997	Rojas	Blanca
+Course Attendance Report	Fall 2017 READ 290-05 13798	889581997	Rojas	Blanca
+Course Attendance Report	Fall 2017 READ 290-21 13909	894339498	Keisler	Laura
+Course Attendance Report	Fall 2017 READ 390-01 14062	894339498	Keisler	Laura
+Course Attendance Report	Fall 2017 SALP 401-01 20877	899905830	Chapman	Rick
+Course Attendance Report	Fall 2017 SALP 403-01 20880	899931620	Dupaquier	Carolyn
+Course Attendance Report	Fall 2017 SALP 405-01 20882	896499381	Majam-Finch	Danielle
+Course Attendance Report	Fall 2017 SALP 407-01 20884	899970883	Azimi	Mardelle
+Course Attendance Report	Fall 2017 SALP 499-01 20888	802403204	Moore	Catherine
+Course Attendance Report	Fall 2017 SALP 501-01 20890	896499381	Majam-Finch	Danielle
+Course Attendance Report	Fall 2017 SALP 501-02 20891	899931620	Dupaquier	Carolyn
+Course Attendance Report	Fall 2017 SALP 503-01 20893	899990980	Snavely	Heather
+Course Attendance Report	Fall 2017 SALP 503-02 20894	894894039	Youn	May
+Course Attendance Report	Fall 2017 SALP 505-01 20896	899905830	Chapman	Rick
+Course Attendance Report	Fall 2017 SALP 505-02 20897	806228466	Marshall	John
+Course Attendance Report	Fall 2017 SALP 507-01 20899	899944532	Snow	Monica
+Course Attendance Report	Fall 2017 SALP 507-02 20900	894353341	Roh	Lily (hyo Eun)
+Course Attendance Report	Fall 2017 SALP 509-01 20902	899970883	Azimi	Mardelle
+Course Attendance Report	Fall 2017 SALP 599-01 20904	892844549	Lee	Esther
+Course Attendance Report	Fall 2017 SALP 601-01 20906	899990980	Snavely	Heather
+Course Attendance Report	Fall 2017 SALP 601-02 20907	894353341	Roh	Lily (hyo Eun)
+Course Attendance Report	Fall 2017 SALP 601-03 20908	804161362	Espinoza	Maria Guadalupe
+Course Attendance Report	Fall 2017 SALP 603-01 20910	899970883	Azimi	Mardelle
+Course Attendance Report	Fall 2017 SALP 603-02 20911	893789529	Herbst	Mark
+Course Attendance Report	Fall 2017 SALP 605-01 20913	894894039	Youn	May
+Course Attendance Report	Fall 2017 SALP 605-02 20914	899905830	Chapman	Rick
+Course Attendance Report	Fall 2017 SALP 607-01 20916	899905830	Chapman	Rick
+Course Attendance Report	Fall 2017 SALP 610-01 20917	894353341	Roh	Lily (hyo Eun)
+Course Attendance Report	Fall 2017 SALP 628-01 20918	897392684	Luster	Michelle
+Course Attendance Report	Fall 2017 SALP 690-01 20920	899944532	Snow	Monica
+Course Attendance Report	Fall 2017 SALP 692-01 20921	806228466	Marshall	John
+Course Attendance Report	Fall 2017 SALP 699-01 20922	899931620	Dupaquier	Carolyn
+Course Attendance Report	Fall 2017 SALP 701-01 20927	893789529	Herbst	Mark
+Course Attendance Report	Fall 2017 SALP 701-02 20928	892844549	Lee	Esther
+Course Attendance Report	Fall 2017 SALP 705-01 20934	892844549	Lee	Esther
+Course Attendance Report	Fall 2017 SALP 710-01 20936	894353341	Roh	Lily (hyo Eun)
+Course Attendance Report	Fall 2017 SALP 718-01 20947	899973739	Rubin	Bruce
+Course Attendance Report	Fall 2017 SALP 728-01 20937	802403204	Moore	Catherine
+Course Attendance Report	Fall 2017 SALP 742-01 20949	899970883	Azimi	Mardelle
+Course Attendance Report	Fall 2017 SALP 764-01 20939	892844549	Lee	Esther
+Course Attendance Report	Fall 2017 SALP 768-01 20940	897392684	Luster	Michelle
+Course Attendance Report	Fall 2017 SALP 770-01 20951	897392684	Luster	Michelle
+Course Attendance Report	Fall 2017 SALP 792-01 20944	806228466	Marshall	John
+Course Attendance Report	Fall 2017 SALP 799-01 20946	899990980	Snavely	Heather
+Course Attendance Report	Fall 2017 SALP 801-01 20952	806228466	Marshall	John
+Course Attendance Report	Fall 2017 SALP 801-02 20953	899973739	Rubin	Bruce
+Course Attendance Report	Fall 2017 SALP 823-01 20958	899944532	Snow	Monica
+Course Attendance Report	Fall 2017 SOCI 101-03 16077	800137804	Guerrero	Lisa
+Course Attendance Report	Fall 2017 SOCI 302-01 16092	889650693	Traylor	Latosha
+Course Attendance Report	Fall 2017 SOCI 302-05 20012	889650693	Traylor	Latosha
+Course Attendance Report	Fall 2017 SOCI 303-06 16358	800909723	Galano	Pearl
+Course Attendance Report	Fall 2017 SOCI 308-03 16397	800548562	Langley	Ryan
+Course Attendance Report	Fall 2017 SOCI 381-01 16292	800137804	Guerrero	Lisa
+Course Attendance Report	Fall 2017 SOCI 410-02 16396	800548562	Langley	Ryan
+Course Attendance Report	Fall 2017 SPAN 214-02 17540	889643623	Powell	Eilene
+Course Attendance Report	Fall 2017 SPED 433-01 13866	899853915	Carter	Juda
+Course Attendance Report	Fall 2017 SPED 433-05 13867	888940236	Lee	Sung Hee
+Course Attendance Report	Fall 2017 THTR 285-03 10363	888929742	Wilson	Kathryn
+Course Attendance Report	Fall 2017 THTR 285-04 10364	888929742	Wilson	Kathryn
+Course Attendance Report	Fall 2017 THTR 341A-01 10372	899959183	James	Anne
+Course Attendance Report	Fall 2017 THTR 375-01 11203	888921186	Yankee	Luke
+Course Attendance Report	Fall 2017 THTR 387-01 10377	888915121	Kessin	Rebecca
+Course Attendance Report	Fall 2017 THTR 475A-01 11485	888921699	Tracie	Rachel
+Course Attendance Report	Fall 2017 THTR 475B-01 10620	888921186	Yankee	Luke
+Course Attendance Report	Fall 2017 THTR 475B-02 11201	888916103	Fitzgerald	Thomas
+Course Attendance Report	Fall 2017 UNIV 100-06 19604	800293490	Perez	Judith
+Course Attendance Report	Fall 2017 UNIV 100-10 19608	894796226	Kurator	Laney
+Course Attendance Report	Fall 2017 UNIV 100-14 19612	892847518	Curran	Laura
+Course Attendance Report	Fall 2017 UNIV 100-22 19620	800293490	Perez	Judith
+Course Attendance Report	Fall 2017 UNIV 100-23 19621	801025289	Nguyen	Janice
+Course Attendance Report	Fall 2017 UNIV 100-29 21431	805683679	Horn Mallers	Melanie
+Course Attendance Report	Summer 2017 BIOL 329-70 10382	803005321	Patel	Nilay
+Course Attendance Report	Summer 2017 BIOL 329-71 10384	803005321	Patel	Nilay
+Course Attendance Report	Summer 2017 CAS 300-01 10901	892779539	Kim	Janna
+Course Attendance Report	Summer 2017 CPSC 254-03 11632	892844432	Shafae	Michael
+Course Attendance Report	Summer 2017 CPSC 254-04 11633	892844432	Shafae	Michael
+Course Attendance Report	Summer 2017 EGCE 201-01 10972	892104654	Mishra	Phoolendra
+Course Attendance Report	Summer 2017 ENGL 302-01 10954	892838897	Brannon	April
+Course Attendance Report	Summer 2017 FIN 435-01 10243	897629275	Clark	Marcia
+Course Attendance Report	Summer 2017 HCOM 308-01 10501	889646956	Suwinyattichaiporn	Tara
+Course Attendance Report	Summer 2017 KNES 210-01 10378	899936132	Barr	Michele
+Course Attendance Report	Summer 2017 MSW 571-70 11230	892774829	Bailey	Caroline
+Course Attendance Report	Summer 2017 MSW 571-80 11609	892774829	Bailey	Caroline
+Course Attendance Report	Summer 2017 POSC 100-01 10349	899994826	Spitzer	Scott
+Course Attendance Report	Summer 2017 POSC 427-01 10353	899994826	Spitzer	Scott
+Course Attendance Report	Summer 2017 SALP 4009-01 10045	893801183	Schmid	Andrea
+Course Attendance Report	Summer 2017 SALP 4015-01 10196	899944532	Snow	Monica
+Course Attendance Report	Summer 2017 SALP 4019-01 11369	892416892	Morrison	Amy
+Course Attendance Report	Summer 2017 SALP 4037-01 10197	897668380	Stokes	Jenna
+Course Attendance Report	Summer 2017 SALP 4099-01 10056	897392684	Luster	Michelle
+Course Attendance Report	Summer 2017 SALP 5009-01 11370	899990980	Snavely	Heather
+Course Attendance Report	Summer 2017 SALP 5015-01 10198	897392684	Luster	Michelle
+Course Attendance Report	Summer 2017 SALP 5037-01 10199	899905830	Chapman	Rick
+Course Attendance Report	Summer 2017 SALP 6010-01 10073	899990980	Snavely	Heather
+Course Attendance Report	Summer 2017 SALP 6015-01 10200	896316684	Maruri	Gabriela
+Course Attendance Report	Summer 2017 SALP 6015-02 10201	891511693	Pak	Jackie
+Course Attendance Report	Summer 2017 SALP 6037-01 10203	899970883	Azimi	Mardelle
+Course Attendance Report	Summer 2017 SALP 6090-01 10135	899944532	Snow	Monica
+Course Attendance Report	Summer 2017 SALP 6092-01 10087	806228466	Marshall	John
+Course Attendance Report	Summer 2017 SALP 7015-01 10205	893789529	Herbst	Mark
+Course Attendance Report	Summer 2017 SALP 7020-01 11372	804161362	Espinoza	Maria Guadalupe
+Course Attendance Report	Summer 2017 SALP 7028-01 11519	893818641	Henel	Sylvia
+Course Attendance Report	Summer 2017 SALP 7037-01 10208	892844549	Lee	Esther
+Course Attendance Report	Summer 2017 SALP 7062-01 10106	805647377	Nguyen	Teresa
+Course Attendance Report	Summer 2017 SALP 7090-01 10127	899944532	Snow	Monica
+Course Attendance Report	Summer 2017 SALP 7092-01 10111	806228466	Marshall	John
+Course Attendance Report	Summer 2017 SALP 7099-01 10113	897392684	Luster	Michelle
+Course Attendance Report	Summer 2017 SALP 8015-01 10210	806228466	Marshall	John
+Course Attendance Report	Summer 2017 SALP 8037-01 10211	893801183	Schmid	Andrea
+Course Attendance Report	Summer 2017 THTR 467-01 11367	893758797	Mickey	Dave
+Course Attendance Report	Veronica Lockett-Ruiz Sandbox	893726695	Lockett-Ruiz	Veronica
+Course Attendance Report	Fall 2017 ENGL 101-69 16625	899922694	Pollitt	Gary
+Course Attendance Report	Fall 2017 ENGL 101-74 16636	800436842	Ornelas	Cecilia
+Course Attendance Report	Fall 2017 ENGL 101-78 16639	800436842	Ornelas	Cecilia
+Course Attendance Report	Fall 2017 HESC 440-06 21549	890035264	Dust	Mark
+Course Attendance Report	Fall 2017 UNIV 100-41 21554	894340959	Swanson	Doug
+Course Attendance Report	Fall 2017 SALP 790-01 20943	899944532	Snow	Monica
+Course Attendance Report	Fall 2017 MKTG 353-06 21575	892867599	Kim	Yuna
+Course Attendance Report	Fall 2017 MKTG 379-07 21577	892867599	Kim	Yuna
+Course Attendance Report	Fall 2017 HCOM 100-31 21596	898200811	Bugrov	Maksim
+Course Attendance Report	Fall 2017 ISDS 351-15 21688	889234209	Williams	Kevin
+Course Attendance Report	Fall 2017 COMM 464-06 21782	800134611	Hagihara	Kenneth
+Course Attendance Report	Fall 2017 MKTG 379-08 21781	892867599	Kim	Yuna
+Course Attendance Report	Fall 2017 SOCI 351-04 21777	800725822	Rainey	Joanna
+Course Attendance Report	Fall 2017 COMM 301-05 21786	899972491	Blair	Erik
+Course Attendance Report	Fall 2017 COMM 438T-01 21785	888915758	Baranger	Walter
+Course Attendance Report	Fall 2017 COMM 461-01 21791	888915758	Baranger	Walter
+Course Attendance Report	Fall 2017 BIOL 150-01 21936	899917231	Casem	Merri Lynn
+Course Attendance Report	Fall 2017 EGME 452-01 21950	888883360	Haueisen	Brooke
+Course Attendance Report	Fall 2017 ACCT 402-08 21953	890946270	Gagnon	Christine
+Course Attendance Report	Fall 2017 BIOL 480-34 21954	899954424	Gonzalez	Barbara
+Course Attendance Report	Fall 2017 EGME 102-09 21961	803116318	Bang	Christopher
+Course Attendance Report	Fall 2017 EGME 102-10 21962	803116318	Bang	Christopher
+Course Attendance Report	Fall 2017 EGME 476A-11 20569	890251358	Zhang	Bing
+Course Attendance Report	Fall 2017 HCOM 100-92 22012	889559712	Suarez	Samantha
+Course Attendance Report	Fall 2017 EGCE 430-03 22029	897368262	Hanna	Melad
+Course Attendance Report	Fall 2017 EGEE 404-04 20847	897472338	Wang	Peter
+Course Attendance Report	Fall 2017 MATH 270A-06 19083	800409450	Hall	Nathaniel
+Course Attendance Report	Fall 2017 MATH 115-28 20636	899692602	Varney	Matthew
+Course Attendance Report	Fall 2017 EGEE 203L-12 22108	893503391	Khoubanshargh	Saba
+Course Attendance Report	Fall 2017 COUN HUSR 380 Combined	892102807	Tsong	Yuying
+Course Attendance Report	Fall 2017 ECON 315 Combined	899939821	Stanley	Denise
+Course Attendance Report	Wenlin Han Sandbox	888939261	Han	Wenlin
+Course Attendance Report	Fall 2017 SALP 703-01 20932	899973739	Rubin	Bruce
+Course Attendance Report	Fall 2017 SALP 703-02 20931	897392684	Luster	Michelle
+Course Attendance Report	Fall 2017 SALP 803-01 20957	896499381	Majam-Finch	Danielle
+Course Attendance Report	Fall 2017 SALP 803-02 20956	802403204	Moore	Catherine
+Course Attendance Report	Fall 2017 ISDS 351-16 22188	889234209	Williams	Kevin
+Course Attendance Report	Fall 2017 CHEM 120A Gonzalez	899954424	Gonzalez	Barbara
+Course Attendance Report	Fall 2017 ENGL 101-25 22230	800436842	Ornelas	Cecilia
+Course Attendance Report	Fall 2017 EGEE 401-04 22236	890270473	Garner	James
+Course Attendance Report	Fall 2017 UNIV 100 Curran	892847518	Curran	Laura
+Course Attendance Report	Fall 2017 BIOL 303-01 19380	892835596	Cuajungco	Math
+Course Attendance Report	Fall 2017 COMM 449 Collison	892115502	Collison	Jim
+Course Attendance Report	Fall 2017 CPSC 223J 01-02	888932589	Inventado	Paul Salvador
+Course Attendance Report	Fall 2017 CPSC 254 01-02	888932589	Inventado	Paul Salvador
+Course Attendance Report	Fall 2017 CPSC 254 05-06	888932589	Inventado	Paul Salvador
+Course Attendance Report	Fall 2017 SALP 403-02 20881	897668380	Stokes	Jenna
+Course Attendance Report	Fall 2017 SALP 405-02 20883	893801183	Schmid	Andrea
+HIP Activity Report	Fall 2017 AMST 390-01 17090	892421645	Lane	Carrie
+HIP Activity Report	Fall 2017 ART 380-01 10053	899907406	Judd	Marsha
+HIP Activity Report	Fall 2017 ART 380-02 10054	899907406	Judd	Marsha
+HIP Activity Report	Fall 2017 ART 380-03 10055	899907406	Judd	Marsha
+HIP Activity Report	Fall 2017 ART 499-22 10087	899988646	Jewett	Jade
+HIP Activity Report	Fall 2017 ASAM 308-01 16925	803803345	Yee	Jennifer
+HIP Activity Report	Fall 2017 ASAM 308-02 17518	803803345	Yee	Jennifer
+HIP Activity Report	Fall 2017 CAS 394-03 20249	899889463	Robles	Diana
+HIP Activity Report	Fall 2017 CAS 394-04 14129	899970511	Yen	Shu-Chen
+HIP Activity Report	Fall 2017 CAS 394L-03 14708	899889463	Robles	Diana
+HIP Activity Report	Fall 2017 CAS 394L-04 14132	899970511	Yen	Shu-Chen
+HIP Activity Report	Fall 2017 COMD 350-01 21194	894340017	Kim	Minjung
+HIP Activity Report	Fall 2017 COMD 499-07 21274	899984686	Tsao	Ying-Chiao
+HIP Activity Report	Fall 2017 COMM 202-02 12405	889649059	Phoborisut	Penchan
+HIP Activity Report	Fall 2017 COMM 202-03 12977	889649059	Phoborisut	Penchan
+HIP Activity Report	Fall 2017 COMM 315-01 12943	891456238	Gonzalez	Inez
+HIP Activity Report	Fall 2017 COMM 464-02 12938	899959464	Witmer	Diane
+HIP Activity Report	Fall 2017 COMM 472-01 12432	899914675	Georges	Beth
+HIP Activity Report	Fall 2017 COMM 472-02 12714	899914675	Georges	Beth
+HIP Activity Report	Fall 2017 COMM 472-03 12717	899914675	Georges	Beth
+HIP Activity Report	Fall 2017 COMM 472-04 12718	899914675	Georges	Beth
+HIP Activity Report	Fall 2017 COMM 495T-02 12873	889619409	Chitty	Amber
+HIP Activity Report	Fall 2017 COMM 495T-03 12874	889619409	Chitty	Amber
+HIP Activity Report	Fall 2017 COMM 495T-04 12875	889619409	Chitty	Amber
+HIP Activity Report	Fall 2017 COMM 495T-05 12876	889619409	Chitty	Amber
+HIP Activity Report	Fall 2017 COMM 495T-80 12877	889619409	Chitty	Amber
+HIP Activity Report	Fall 2017 CPSC 121-13 13677	892794173	Anderson	Natalia
+HIP Activity Report	Fall 2017 CPSC 121-14 13678	892794173	Anderson	Natalia
+HIP Activity Report	Fall 2017 CTVA 220-01 12650	899976781	Jenkins	Shelley
+HIP Activity Report	Fall 2017 CTVA 220-02 12715	899976781	Jenkins	Shelley
+HIP Activity Report	Fall 2017 CTVA 220-03 12651	899976781	Jenkins	Shelley
+HIP Activity Report	Fall 2017 CTVA 220-04 12716	899976781	Jenkins	Shelley
+HIP Activity Report	Fall 2017 CTVA 220-05 12975	899976781	Jenkins	Shelley
+HIP Activity Report	Fall 2017 CTVA 220-06 12976	899976781	Jenkins	Shelley
+HIP Activity Report	Fall 2017 DANC 122-01 10117	892109455	Rangel-Alvarado	Alvin
+HIP Activity Report	Fall 2017 DANC 126-01 10119	892109455	Rangel-Alvarado	Alvin
+HIP Activity Report	Fall 2017 EDEL 315-01 14050	899997738	Finnell	Barbara
+HIP Activity Report	Fall 2017 EDEL 315-03 13742	899997738	Finnell	Barbara
+HIP Activity Report	Fall 2017 EDEL 315-04 13743	805979705	Lengyel-Leahu	Kristia
+HIP Activity Report	Fall 2017 EDEL 315-05 13741	805979705	Lengyel-Leahu	Kristia
+HIP Activity Report	Fall 2017 EGCE 201-02 13432	892109042	Struckhoff	Garrett
+HIP Activity Report	Fall 2017 EGCE 201-04 13698	892104654	Mishra	Phoolendra
+HIP Activity Report	Fall 2017 EGCE 201-05 13712	890291446	Reina	Paulina
+HIP Activity Report	Fall 2017 EGCP 180-07 13350	803073113	Mahto	Rakeshkumar
+HIP Activity Report	Fall 2017 EGCP 180-08 13351	803073113	Mahto	Rakeshkumar
+HIP Activity Report	Fall 2017 EGCP 180-09 20493	894841212	Nair	Pradeep
+HIP Activity Report	Fall 2017 EGCP 180-10 20494	894841212	Nair	Pradeep
+HIP Activity Report	Fall 2017 EGME 304-05 13730	892105164	Wang	Haowei
+HIP Activity Report	Fall 2017 EGME 331-01 13449	889615969	Park	Yong Seok
+HIP Activity Report	Fall 2017 EGME 333-02 13295	890298938	Weiss	Hope
+HIP Activity Report	Fall 2017 EGME 333-06 13640	889615852	Banks	Darren
+HIP Activity Report	Fall 2017 ENGL 101-05 15567	894807288	Brody	Jaime
+HIP Activity Report	Fall 2017 ENGL 101-10 15570	894807288	Brody	Jaime
+HIP Activity Report	Fall 2017 ENGL 101-11 15571	802365015	Neis	Robert
+HIP Activity Report	Fall 2017 ENGL 101-15 15572	800088791	Middleton	Donna
+HIP Activity Report	Fall 2017 ENGL 101-16 15573	802365015	Neis	Robert
+HIP Activity Report	Fall 2017 ENGL 101-20 16817	800088791	Middleton	Donna
+HIP Activity Report	Fall 2017 ENGL 101-35 15583	894191022	Schmitendorf	Allison
+HIP Activity Report	Fall 2017 ENGL 101-39 15585	892670332	Sadnik	Daniel
+HIP Activity Report	Fall 2017 ENGL 101-43 17363	892670332	Sadnik	Daniel
+HIP Activity Report	Fall 2017 ENGL 101-48 15590	897217477	Ferreira	Vanessa
+HIP Activity Report	Fall 2017 ENGL 101-52 16528	800691040	Dickinson	Amy
+HIP Activity Report	Fall 2017 ENGL 101-53 16536	800214405	Matuszewski	Joanna
+HIP Activity Report	Fall 2017 ENGL 101-58 17366	800214405	Matuszewski	Joanna
+HIP Activity Report	Fall 2017 ENGL 101-64 16618	800691040	Dickinson	Amy
+HIP Activity Report	Fall 2017 ENGL 101-65 16626	800214405	Matuszewski	Joanna
+HIP Activity Report	Fall 2017 ENGL 101-71 16632	800597080	Murphree	Rachel
+HIP Activity Report	Fall 2017 ENGL 101-77 16638	800597080	Murphree	Rachel
+HIP Activity Report	Fall 2017 ENGL 301-11 17380	800395105	Medrano	April
+HIP Activity Report	Fall 2017 ENGL 301-13 16416	802809681	Mills	Amelia
+HIP Activity Report	Fall 2017 ENGL 301-20 19920	899937114	Sawicki	Sherri
+HIP Activity Report	Fall 2017 ENGL 301-24 19949	899937114	Sawicki	Sherri
+HIP Activity Report	Fall 2017 ENGL 301-33 19958	899937114	Sawicki	Sherri
+HIP Activity Report	Fall 2017 ENGL 301-41 21412	802809681	Mills	Amelia
+HIP Activity Report	Fall 2017 ENGL 301-42 21413	802809681	Mills	Amelia
+HIP Activity Report	Fall 2017 HCOM 100-63 12906	894608470	Webb	Matthew
+HIP Activity Report	Fall 2017 HCOM 100-69 13095	894608470	Webb	Matthew
+HIP Activity Report	Fall 2017 HCOM 102-01 12486	800325193	Selnick	Sharon
+HIP Activity Report	Fall 2017 HCOM 102-03 12488	800325193	Selnick	Sharon
+HIP Activity Report	Fall 2017 HCOM 102-09 12493	800286304	Blumer	Collette
+HIP Activity Report	Fall 2017 HCOM 102-17 13022	897863502	Sindicich	Joseph
+HIP Activity Report	Fall 2017 HCOM 235-02 12499	800173809	Frye	Denise
+HIP Activity Report	Fall 2017 HCOM 235-05 19830	800286304	Blumer	Collette
+HIP Activity Report	Fall 2017 HCOM 235-07 12501	892818345	Salcedo	Joel
+HIP Activity Report	Fall 2017 HCOM 235-09 12899	899992531	Mierop	Jack
+HIP Activity Report	Fall 2017 HCOM 235-10 12922	892818345	Salcedo	Joel
+HIP Activity Report	Fall 2017 HCOM 338-01 12515	890270101	Green	Latoya
+HIP Activity Report	Fall 2017 HCOM 426-01 12895	894338391	Thomas	Erika
+HIP Activity Report	Fall 2017 HCOM 432-01 20845	894338391	Thomas	Erika
+HIP Activity Report	Fall 2017 HESC 101-02 14192	890901010	Shimazu	Susan
+HIP Activity Report	Fall 2017 HESC 495-04 20759	899861587	Chandler	Laura
+HIP Activity Report	Fall 2017 KNES 386-03 14724	800749731	Marttinen	Risto
+HIP Activity Report	Fall 2017 KNES 432-01 14771	894320670	Wilson	Kathleen
+HIP Activity Report	Fall 2017 MUS 398-13 10177	899950042	Koegel	John
+HIP Activity Report	Fall 2017 PSYC 361-03 15835	889644019	Alcala	Lucia
+HIP Activity Report	Fall 2017 SOCI 306-01 16821	893809772	Pada	Orvic Ralph
+HIP Activity Report	Fall 2017 THTR 236A-01 10357	899956734	Taulli	Jim
+HIP Activity Report	Fall 2017 THTR 236A-02 10358	899956734	Taulli	Jim
+HIP Activity Report	Fall 2017 THTR 341A-01 10372	899959183	James	Anne
+HIP Activity Report	Fall 2017 THTR 436A-01 10379	899863419	Hanlon	Mitchell
+HIP Activity Report	Fall 2017 UNIV 100-06 19604	800293490	Perez	Judith
+HIP Activity Report	Fall 2017 UNIV 100-07 19605	898728282	Jimeno	Nancy
+HIP Activity Report	Fall 2017 UNIV 100-08 19606	898728282	Jimeno	Nancy
+HIP Activity Report	Fall 2017 UNIV 100-09 19607	802222935	Hunt	Ryan
+HIP Activity Report	Fall 2017 UNIV 100-10 19608	894796226	Kurator	Laney
+HIP Activity Report	Fall 2017 UNIV 100-11 19609	888904471	Jollevet	Felix
+HIP Activity Report	Fall 2017 UNIV 100-15 19613	802222935	Hunt	Ryan
+HIP Activity Report	Fall 2017 UNIV 100-20 19618	895013787	Obando	Mario
+HIP Activity Report	Fall 2017 UNIV 100-21 19619	802525642	Plouffe	David
+HIP Activity Report	Fall 2017 UNIV 100-22 19620	800293490	Perez	Judith
+HIP Activity Report	Fall 2017 UNIV 100-23 19621	801025289	Nguyen	Janice
+HIP Activity Report	Fall 2017 UNIV 100-28 21430	890916828	Burke	Shelley
+HIP Activity Report	Fall 2017 UNIV 100-29 21431	805683679	Horn Mallers	Melanie
+HIP Activity Report	Fall 2017 UNIV 100-30 21453	801424300	Fazio	Karen
+HIP Activity Report	Fall 2017 ENGL 101-02 15564	800088791	Middleton	Donna
+HIP Activity Report	Fall 2017 ENGL 101-74 16636	800436842	Ornelas	Cecilia
+HIP Activity Report	Fall 2017 UNIV 100-04 19627	802525642	Plouffe	David
+HIP Activity Report	Fall 2017 UNIV 100-24 19602	803080688	Nguyen	John
+HIP Activity Report	Fall 2017 UNIV 100-25 19611	890270523	Alonso	Lluliana
+HIP Activity Report	Fall 2017 UNIV 100-27 21488	802920041	Zamora	Jose
+HIP Activity Report	Fall 2017 UNIV 100-32 21353	892432428	Flores	Yesenia
+HIP Activity Report	Fall 2017 UNIV 100-33 21469	892847518	Curran	Laura
+HIP Activity Report	Summer 2017 KNES 550-01 11752	805711298	Tsang	Kavin
+HIP Activity Report	Fall 2017 UNIV 100-31 21468	890916828	Burke	Shelley
+HIP Activity Report	Fall 2017 ENGL 301-31 19956	899937114	Sawicki	Sherri
+HIP Activity Report	Fall 2017 ENGL 101-96 22220	800088791	Middleton	Donna
+HIP Activity Report	Fall 2017 ENGL 101-97 22221	800088791	Middleton	Donna
+HIP Activity Report	Fall 2017 ENGL 101-25 22230	800436842	Ornelas	Cecilia
+HIP Activity Report	Fall 2017 COMD 350-02 22239	894340017	Kim	Minjung
+W. W. Norton - InQuizitive	Fall 2017 HIST 110A-09 15668	892117847	O'Connor	Stephen
+W. W. Norton - InQuizitive	Fall 2017 HIST 110A-11 15669	894859610	Neufeld	Stephen
+W. W. Norton - InQuizitive	Fall 2017 HIST 110A-20 17301	892117847	O'Connor	Stephen
+W. W. Norton - InQuizitive	Fall 2017 HIST 110B-50 17039	893767509	Burlingham	Kate
+W. W. Norton - InQuizitive	Fall 2017 HIST 110B-53 19990	899774822	Zacair	Philippe
+W. W. Norton - InQuizitive	Fall 2017 HIST 110B-54 19991	899774822	Zacair	Philippe
+W. W. Norton - InQuizitive	Fall 2017 HIST 180-10 19997	802795971	Janssen	Volker
+W. W. Norton - InQuizitive	Fall 2017 HIST 180-50 17311	802795971	Janssen	Volker
+W. W. Norton - InQuizitive	Fall 2017 HIST 180-51 17208	802795971	Janssen	Volker
+W. W. Norton - InQuizitive	Fall 2017 POSC 100-04 15783	890316243	Robinson	Robert
+W. W. Norton - InQuizitive	Fall 2017 POSC 100-10 16718	890946239	Miller	Trisha
+W. W. Norton - InQuizitive	Fall 2017 PSYC 305-50 16311	802825331	Blandon-Gitlin	Iris
+W. W. Norton - InQuizitive	Summer 2017 HIST 110B-50 10437	893767509	Burlingham	Kate
+W. W. Norton - InQuizitive	Summer 2017 HIST 180-50 10449	802795971	Janssen	Volker
+W. W. Norton - InQuizitive	Summer 2017 POSC 100-51 10362	890316243	Robinson	Robert
+W. W. Norton - InQuizitive	Tara Barnhart Sandbox	802118216	Barnhart	Tara
+Zoom	Benjamin Cawthra Sandbox	892838905	Cawthra	Benjamin
+Zoom	Fall 2017 EDAD 505A-58 21144	888932837	Lozano	Maritza
+Zoom	Fall 2017 EGCE 571-50 13344	892104654	Mishra	Phoolendra
+Zoom	Fall 2017 HESC 349-55 21020	897874566	Halkia	Georgia
+Zoom	Fall 2017 HESC 450-50 14990	897874566	Halkia	Georgia
+Zoom	Fall 2017 HIST 405-01 19999	892838905	Cawthra	Benjamin
+Zoom	Fall 2017 IDT 540-50 14068	800017626	Schools	Jim
+Zoom	Fall 2017 NURS 513-50 15125	890284672	Quaye	Beverly
+Zoom	Fall 2017 NURS 552-50 15000	899961130	Dragoo	Susan
+Zoom	Fall 2017 PERS 101-50 16570	899621981	Danaee	Parastoo
+Zoom	Fall 2017 SOCI 302-51 20015	890926090	Harrigan	Selena
+Zoom	Summer 2017 EDSC 542S-50 10681	802790576	Grant	Maria
+Zoom	Summer 2017 NURS 579A-01 11449	894339480	Mielke	Ruth
+Zoom	Summer 2017 POSC 100-51 10362	890316243	Robinson	Robert
+Zoom	Cathie Overstreet Sandbox	898528518	Overstreet	Cathie
+Zoom	Parastoo Danaee Sandbox	899621981	Danaee	Parastoo
+Zoom office hours	Summer 2017 HESC 349-50 10273	890284011	Charles	Shana
+Cengage Learning MindLink	Fall 2017 PSYC 331-03 15825	897707022	Coons	Jennifer
+Voice Thread	John Carroll Sandbox		Carroll	John
+Voice Thread	Fall 2017 COMM 372-04 12713	800096570	Shadaram	Eraj
+Voice Thread	Fall 2017 EDAD 505A-58 21144	888932837	Lozano	Maritza
+Voice Thread	Fall 2017 ENGL 301-51 19964	890940349	Seymour	Nicole
+Voice Thread	Valerie Hannah Sandbox	899321962	Hannah	Valerie
+Voice Thread	Fall 2017 ISDS 351-14 21607	891542011	Gonzalez	Ester
+Voice Thread	Kimberly Norman Sandbox	899924260	Norman	Kim
+iClicker Cloud	Fall 2017 BIOL 152-01 19158	893785337	Abraham	Joel
+iClicker Cloud	Fall 2017 BIOL 202-01 17593	898528518	Overstreet	Cathie
+iClicker Cloud	Fall 2017 BIOL 303-02 18960	891522633	Jimenez Ortiz	Veronica
+iClicker Cloud	Fall 2017 BIOL 598-12 18076	899917231	Casem	Merri Lynn
+iClicker Cloud	Fall 2017 CHEM 421-01 18867	898528518	Overstreet	Cathie
+iClicker Cloud	Fall 2017 CRJU 300-01 15546	892843335	Cass	Amy
+iClicker Cloud	Fall 2017 CRJU 320-01 17230	899333140	Tucker	Justin
+iClicker Cloud	Fall 2017 FIN 342-01 11886	802728477	Milligan	Michael
+iClicker Cloud	Fall 2017 GEOL 101-01 18868	894464882	Rath	Carolyn
+iClicker Cloud	Fall 2017 GEOL 101-02 18713	891509176	Hamecher	Emily
+iClicker Cloud	Fall 2017 GEOL 101-03 19086	891509176	Hamecher	Emily
+iClicker Cloud	Fall 2017 GEOL 101-08 17770	899990915	Woods	Adam
+iClicker Cloud	Fall 2017 GEOL 599-21 18522	899858989	Knott	Jeffrey
+iClicker Cloud	Fall 2017 HESC 220-01 14196	800416331	Ransons	Alysia
+iClicker Cloud	Fall 2017 HESC 220-02 14712	800416331	Ransons	Alysia
+iClicker Cloud	Fall 2017 HESC 220-03 15085	800112591	Hoang	Darany
+iClicker Cloud	Fall 2017 HESC 220-04 14816	800725434	Blyleven	Jackie
+iClicker Cloud	Fall 2017 HESC 220-05 15109	800725434	Blyleven	Jackie
+iClicker Cloud	Fall 2017 HESC 220-06 15270	800112591	Hoang	Darany
+iClicker Cloud	Fall 2017 KNES 371-03 14394	889625117	Lee	Do Kyeong
+iClicker Cloud	Fall 2017 POSC 100-04 15783	890316243	Robinson	Robert
+iClicker Cloud	Fall 2017 POSC 100-06 16936	899994826	Spitzer	Scott
+iClicker Cloud	Fall 2017 PSYC 110-09 16800	890931777	Stilley	Ashley
+iClicker Cloud	Michael Groves Sandbox	893281014	Groves	Michael
+iClicker Cloud	Fall 2017 GEOL 101-12 21693	894464882	Rath	Carolyn
+iClicker Cloud	Rosario Sakamoto Sandbox	804678746	Sakamoto	Rose
+iClicker Cloud	Fall 2017 BIOL 151 Villeneuve	893820969	Villeneuve	Louisa
+iClicker Cloud	Fall 2017 ACCT 201A Hatton	806227393	Hatton	Glen
+iClicker Cloud	Fall 2017 BIOL 303-01 19380	892835596	Cuajungco	Math
+iClicker Cloud	Fall 2017 BIOL 151-Lecture	806214946	Miyamoto	Alison
